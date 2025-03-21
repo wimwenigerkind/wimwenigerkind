@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Symfony, Java, Shopware**
 
-- 📫 How to reach me **info@wimwenigerkind.com or wim.wenigerkind@heptacom.de**
+- 📫 How to reach me **info@wimwenigerkind.com**
 
 ![GitHub activity stats](https://github-readme-stats.vercel.app/api?username=wimwenigerkind&show_icons=true&count_private=true&theme=city_lights)
 
