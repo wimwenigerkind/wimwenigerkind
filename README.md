@@ -9,7 +9,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wimwenigerkind&layout=compact)
 
-![GitHub activity stats](https://github-readme-stats.vercel.app/api?username=wimwenigerkind&show_icons=true&count_private=true&theme=city_lights)
+![GitHub activity stats](https://github-readme-stats.vercel.app/api?username=wimwenigerkind&show_icons=true&count_private=true)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wimwenigerkind)](https://github.com/anuraghazra/github-readme-stats)
 
