@@ -7,6 +7,8 @@
 
 # Stats
 
+[![wakatime](https://wakatime.com/badge/user/e646e006-b4c5-4881-897c-e6eac563592a.svg)](https://wakatime.com/@e646e006-b4c5-4881-897c-e6eac563592a)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wimwenigerkind&layout=compact)
 
 ![GitHub activity stats](https://github-readme-stats.vercel.app/api?username=wimwenigerkind&show_icons=true&count_private=true)
