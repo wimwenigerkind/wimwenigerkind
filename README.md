@@ -6,7 +6,7 @@
 - 📫 How to reach me **info@wimwenigerkind.com**
 
 
-# Contribution
+# Contributions
 
 [![Shopware Docker](https://github-readme-stats.vercel.app/api/pin/?username=dockware&repo=dockware)](https://github.com/dockware/dockware)
 
