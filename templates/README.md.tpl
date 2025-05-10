@@ -29,11 +29,6 @@ Repository description: {{.Repo.Description}}
 Repository URL: {{.Repo.URL}}
 {{end}}
 
-#### 👯 Check out some of my recent followers
-{{range followers 5}}
-- [{{.Login}}]({{.URL}})
-{{- end}}
-
 # Contributions
 
 [![Shopware Docker](https://github-readme-stats.vercel.app/api/pin/?username=dockware&repo=dockware)](https://github.com/dockware/dockware)
