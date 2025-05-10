@@ -27,16 +27,16 @@ Wakatime stats since 2025-03-25
 
 #### 🔀 Some of my recent pull requests
 
-- OPEN Update Shopware 6.6.10.4
+- Update Shopware 6.6.10.4
 https://github.com/dockware/dockware/pull/262
-(4 days ago)
+(4 days ago - OPEN)
 Repository name: dockware/dockware
 Repository description: Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
-- MERGED Add shopware 6.7.0.0-rc3
+- Add shopware 6.7.0.0-rc3
 https://github.com/dockware/dockware/pull/261
-(1 week ago)
+(1 week ago - MERGED)
 Repository name: dockware/dockware
 Repository description: Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
