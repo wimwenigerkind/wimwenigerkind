@@ -6,17 +6,9 @@
 - 📫 How to reach me **info@wimwenigerkind.com**
 
 #### 🌱 Check out what I'm currently working on
-{{range recentRepos 10}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{range recentContributions 9}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
-
-#### I've contributed to
-{{range recentContributions 10}}
-Name: {{.Repo.Name}}
-Description: {{.Repo.Description}}
-URL: {{.Repo.URL}})
-Occurred: {{humanize .OccurredAt}}
-{{end}}
 
 #### 🔭 Latest releases I've contributed to
 {{range recentReleases 10}}
