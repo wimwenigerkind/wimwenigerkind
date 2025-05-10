@@ -1,10 +1,52 @@
 <h1 align="center">Hi 👋, I'm Wim Wenigerkind</h1>
-<h3 align="center">15 years old and a passionate developer from Germany</h3>
+<h3 align="center">16 years old and a passionate developer from Germany</h3>
 
 - 🌱 I’m currently learning **Symfony, Java, Shopware**
 
 - 📫 How to reach me **info@wimwenigerkind.com**
 
+Wakatime stats since 2025-03-25
+
+[![wakatime](https://wakatime.com/badge/user/e646e006-b4c5-4881-897c-e6eac563592a.svg)](https://wakatime.com/@e646e006-b4c5-4881-897c-e6eac563592a)
+
+#### 🌱 Check out what I'm currently working on
+
+- [wimwenigerkind/backup-container](https://github.com/wimwenigerkind/backup-container) -  (2 days ago)
+- [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (5 days ago)
+- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (1 week ago)
+- [wimwenigerkind/boilerplates](https://github.com/wimwenigerkind/boilerplates) -  (2 weeks ago)
+- [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (3 weeks ago)
+- [wimwenigerkind/satisfactory-server-docker](https://github.com/wimwenigerkind/satisfactory-server-docker) -  (1 month ago)
+- [wimwenigerkind/docker-compose-helper](https://github.com/wimwenigerkind/docker-compose-helper) -  (1 month ago)
+- [wimwenigerkind/wimwenigerkind.github.io](https://github.com/wimwenigerkind/wimwenigerkind.github.io) -  (1 month ago)
+- [wimwenigerkind/proxmoxve-api](https://github.com/wimwenigerkind/proxmoxve-api) -  (1 month ago)
+
+#### 🔭 Latest releases I've contributed to
+
+- [wimwenigerkind/backup-container](https://github.com/wimwenigerkind/backup-container) ([0.0.2](https://github.com/wimwenigerkind/backup-container/releases/tag/0.0.2), 2 days ago) - 
+
+#### Some of my recent pull requests
+
+Title: Update Shopware 6.6.10.4
+URL: https://github.com/dockware/dockware/pull/262
+State: OPEN
+CreatedAt: 4 days ago
+Repository name: dockware/dockware
+Repository description: Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
+Repository URL: https://github.com/dockware/dockware
+
+Title: Add shopware 6.7.0.0-rc3
+URL: https://github.com/dockware/dockware/pull/261
+State: MERGED
+CreatedAt: 1 week ago
+Repository name: dockware/dockware
+Repository description: Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
+Repository URL: https://github.com/dockware/dockware
+
+
+#### 👯 Check out some of my recent followers
+
+- [coda-coda-23](https://github.com/coda-coda-23)
 
 # Contributions
 
@@ -12,10 +54,6 @@
 
 
 # Stats
-
-Wakatime stats since 2025-03-25
-
-[![wakatime](https://wakatime.com/badge/user/e646e006-b4c5-4881-897c-e6eac563592a.svg)](https://wakatime.com/@e646e006-b4c5-4881-897c-e6eac563592a) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wimwenigerkind&layout=compact)
 
