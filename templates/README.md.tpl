@@ -19,7 +19,7 @@ Wakatime stats since 2025-03-25
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-#### Some of my recent pull requests
+#### 🔀 Some of my recent pull requests
 {{range recentPullRequests 10}}
 Title: {{.Title}}
 URL: {{.URL}}
