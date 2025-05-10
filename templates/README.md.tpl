@@ -21,10 +21,9 @@ Wakatime stats since 2025-03-25
 
 #### 🔀 Some of my recent pull requests
 {{range recentPullRequests 10}}
-- {{.Title}}
+- {{.State}} {{.Title}}
 {{.URL}}
-State: {{.State}}
-CreatedAt: {{humanize .CreatedAt}}
+({{humanize .CreatedAt}})
 Repository name: {{.Repo.Name}}
 Repository description: {{.Repo.Description}}
 Repository URL: {{.Repo.URL}}
