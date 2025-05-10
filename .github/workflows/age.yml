@@ -1,0 +1,43 @@
+name: Update Age in README
+
+on:
+  push:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch:
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@master
+
+      - name: Calculate age and update README
+        run: |
+          BIRTHDATE="2009-05-08"  # Set your birthdate here
+          TODAY=$(date +%Y-%m-%d)
+          # Calculate age
+          BIRTH_YEAR=$(date -d "$BIRTHDATE" +%Y)
+          BIRTH_MONTH=$(date -d "$BIRTHDATE" +%m)
+          BIRTH_DAY=$(date -d "$BIRTHDATE" +%d)
+          CURRENT_YEAR=$(date -d "$TODAY" +%Y)
+          CURRENT_MONTH=$(date -d "$TODAY" +%m)
+          CURRENT_DAY=$(date -d "$TODAY" +%d)
+          AGE=$((CURRENT_YEAR - BIRTH_YEAR))
+          if [[ "$CURRENT_MONTH" -lt "$BIRTH_MONTH" || ( "$CURRENT_MONTH" -eq "$BIRTH_MONTH" && "$CURRENT_DAY" -lt "$BIRTH_DAY" ) ]]; then
+            AGE=$((AGE - 1))
+          fi
+          echo "Calculated age: $AGE"
+          # Replace old age in README
+          sed -i "s/[0-9]\+ years old and a passionate developer from Germany/$AGE years old and a passionate developer from Germany/" templates/README.md.tpl
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          commit_message: Update generated README
+          branch: main
+          commit_user_name: Wim Wenigerkind
+          commit_user_email: wim.wenigerkind@heptacom.de
+          commit_author: Wim Wenigerkind <wim.wenigerkind@heptacom.de>
