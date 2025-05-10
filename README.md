@@ -42,10 +42,6 @@ Repository description: Managed Shopware 6 Docker setups with dockware. Run any 
 Repository URL: https://github.com/dockware/dockware
 
 
-#### 👯 Check out some of my recent followers
-
-- [coda-coda-23](https://github.com/coda-coda-23)
-
 # Contributions
 
 [![Shopware Docker](https://github-readme-stats.vercel.app/api/pin/?username=dockware&repo=dockware)](https://github.com/dockware/dockware)
