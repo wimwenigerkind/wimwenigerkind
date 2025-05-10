@@ -25,7 +25,7 @@ Wakatime stats since 2025-03-25
 
 - [wimwenigerkind/backup-container](https://github.com/wimwenigerkind/backup-container) ([0.0.2](https://github.com/wimwenigerkind/backup-container/releases/tag/0.0.2), 2 days ago) - 
 
-#### Some of my recent pull requests
+#### 🔀 Some of my recent pull requests
 
 Title: Update Shopware 6.6.10.4
 URL: https://github.com/dockware/dockware/pull/262
