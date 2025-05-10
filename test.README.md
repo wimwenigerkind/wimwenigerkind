@@ -7,62 +7,15 @@
 
 #### 🌱 Check out what I'm currently working on
 
-- [wimwenigerkind/backup-container](https://github.com/wimwenigerkind/backup-container) - 
-- [wimwenigerkind/boilerplates](https://github.com/wimwenigerkind/boilerplates) - 
-- [wimwenigerkind/docker-compose-helper](https://github.com/wimwenigerkind/docker-compose-helper) - 
-- [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com
-- [wimwenigerkind/satisfactory-server-docker](https://github.com/wimwenigerkind/satisfactory-server-docker) - 
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) - 
-- [wimwenigerkind/wimwenigerkind.github.io](https://github.com/wimwenigerkind/wimwenigerkind.github.io) - 
-- [wimwenigerkind/proxmoxve-api](https://github.com/wimwenigerkind/proxmoxve-api) - 
-
-#### I've contributed to
-
-Name: wimwenigerkind/backup-container
-Description: 
-URL: https://github.com/wimwenigerkind/backup-container)
-Occurred: 2 days ago
-
-Name: dockware/dockware
-Description: Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
-URL: https://github.com/dockware/dockware)
-Occurred: 5 days ago
-
-Name: wimwenigerkind/dotfiles
-Description: 
-URL: https://github.com/wimwenigerkind/dotfiles)
-Occurred: 1 week ago
-
-Name: wimwenigerkind/boilerplates
-Description: 
-URL: https://github.com/wimwenigerkind/boilerplates)
-Occurred: 2 weeks ago
-
-Name: wimwenigerkind/mkdocs-wim-wenigerkind
-Description: Public Documentation at https://docs.wimwenigerkind.com
-URL: https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind)
-Occurred: 3 weeks ago
-
-Name: wimwenigerkind/satisfactory-server-docker
-Description: 
-URL: https://github.com/wimwenigerkind/satisfactory-server-docker)
-Occurred: 1 month ago
-
-Name: wimwenigerkind/docker-compose-helper
-Description: 
-URL: https://github.com/wimwenigerkind/docker-compose-helper)
-Occurred: 1 month ago
-
-Name: wimwenigerkind/wimwenigerkind.github.io
-Description: 
-URL: https://github.com/wimwenigerkind/wimwenigerkind.github.io)
-Occurred: 1 month ago
-
-Name: wimwenigerkind/proxmoxve-api
-Description: 
-URL: https://github.com/wimwenigerkind/proxmoxve-api)
-Occurred: 1 month ago
-
+- [wimwenigerkind/backup-container](https://github.com/wimwenigerkind/backup-container) -  (2 days ago)
+- [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (5 days ago)
+- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (1 week ago)
+- [wimwenigerkind/boilerplates](https://github.com/wimwenigerkind/boilerplates) -  (2 weeks ago)
+- [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (3 weeks ago)
+- [wimwenigerkind/satisfactory-server-docker](https://github.com/wimwenigerkind/satisfactory-server-docker) -  (1 month ago)
+- [wimwenigerkind/docker-compose-helper](https://github.com/wimwenigerkind/docker-compose-helper) -  (1 month ago)
+- [wimwenigerkind/wimwenigerkind.github.io](https://github.com/wimwenigerkind/wimwenigerkind.github.io) -  (1 month ago)
+- [wimwenigerkind/proxmoxve-api](https://github.com/wimwenigerkind/proxmoxve-api) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
