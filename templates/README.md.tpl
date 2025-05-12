@@ -24,8 +24,7 @@ Wakatime stats since 2025-03-25
 - {{.Title}}
 {{.URL}}
 ({{humanize .CreatedAt}} - {{.State}})
-Repository name: {{.Repo.Name}}
-Repository description: {{.Repo.Description}}
+{{.Repo.Description}}
 Repository URL: {{.Repo.URL}}
 {{end}}
 
