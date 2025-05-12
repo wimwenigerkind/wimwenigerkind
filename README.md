@@ -11,11 +11,11 @@ Wakatime stats since 2025-03-25
 
 #### 🌱 Check out what I'm currently working on
 
-- [wimwenigerkind/backup-container](https://github.com/wimwenigerkind/backup-container) - This is an easy-to-use backup solution with integrated webhook notifications. (2 days ago)
-- [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (5 days ago)
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (1 week ago)
-- [wimwenigerkind/boilerplates](https://github.com/wimwenigerkind/boilerplates) -  (2 weeks ago)
-- [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (3 weeks ago)
+- [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (today)
+- [wimwenigerkind/backup-container](https://github.com/wimwenigerkind/backup-container) - This is an easy-to-use backup solution with integrated webhook notifications. (4 days ago)
+- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (2 weeks ago)
+- [wimwenigerkind/boilerplates](https://github.com/wimwenigerkind/boilerplates) -  (3 weeks ago)
+- [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (4 weeks ago)
 - [wimwenigerkind/satisfactory-server-docker](https://github.com/wimwenigerkind/satisfactory-server-docker) -  (1 month ago)
 - [wimwenigerkind/docker-compose-helper](https://github.com/wimwenigerkind/docker-compose-helper) -  (1 month ago)
 - [wimwenigerkind/wimwenigerkind.github.io](https://github.com/wimwenigerkind/wimwenigerkind.github.io) -  (1 month ago)
@@ -23,13 +23,20 @@ Wakatime stats since 2025-03-25
 
 #### 🔭 Latest releases I've contributed to
 
-- [wimwenigerkind/backup-container](https://github.com/wimwenigerkind/backup-container) ([0.0.2](https://github.com/wimwenigerkind/backup-container/releases/tag/0.0.2), 2 days ago) - This is an easy-to-use backup solution with integrated webhook notifications.
+- [wimwenigerkind/backup-container](https://github.com/wimwenigerkind/backup-container) ([0.0.2](https://github.com/wimwenigerkind/backup-container/releases/tag/0.0.2), 4 days ago) - This is an easy-to-use backup solution with integrated webhook notifications.
 
 #### 🔀 Some of my recent pull requests
 
-- Update Shopware 6.6.10.4
+- Add shopware 6.5.8.18
+https://github.com/dockware/dockware/pull/264
+(today - MERGED)
+Repository name: dockware/dockware
+Repository description: Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
+Repository URL: https://github.com/dockware/dockware
+
+- Add Shopware 6.6.10.4
 https://github.com/dockware/dockware/pull/262
-(4 days ago - OPEN)
+(6 days ago - MERGED)
 Repository name: dockware/dockware
 Repository description: Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
@@ -41,10 +48,6 @@ Repository name: dockware/dockware
 Repository description: Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
-
-#### 👯 Check out some of my recent followers
-
-- [coda-coda-23](https://github.com/coda-coda-23)
 
 # Contributions
 
