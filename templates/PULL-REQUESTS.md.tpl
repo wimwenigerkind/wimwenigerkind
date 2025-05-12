@@ -1,5 +1,5 @@
 #### 🔀 My recent pull requests
-{{range recentPullRequests 1000}}
+{{range recentPullRequests 100}}
 - {{.Title}}
 {{.URL}}
 ({{humanize .CreatedAt}} - {{.State}})
