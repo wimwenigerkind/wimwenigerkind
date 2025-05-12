@@ -22,10 +22,10 @@ jobs:
 
       - uses: muesli/readme-scribe@master
         env:
-           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
-           template: "templates/PULL-REQUESTS.md.tpl"
-           writeTo: "PULL-REQUESTS.md
+          template: "templates/PULL-REQUESTS.md.tpl"
+          writeTo: "PULL-REQUESTS.md
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
