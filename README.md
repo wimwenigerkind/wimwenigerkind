@@ -11,8 +11,8 @@ Wakatime stats since 2025-03-25
 
 #### 🌱 Check out what I'm currently working on
 
-- [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (1 day ago)
-- [wimwenigerkind/backup-container](https://github.com/wimwenigerkind/backup-container) - This is an easy-to-use backup solution with integrated webhook notifications. (5 days ago)
+- [wimwenigerkind/backup-container](https://github.com/wimwenigerkind/backup-container) - This is an easy-to-use backup solution with integrated webhook notifications. (1 day ago)
+- [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (2 days ago)
 - [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (2 weeks ago)
 - [wimwenigerkind/boilerplates](https://github.com/wimwenigerkind/boilerplates) -  (3 weeks ago)
 - [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (1 month ago)
@@ -23,13 +23,13 @@ Wakatime stats since 2025-03-25
 
 #### 🔭 Latest releases I've contributed to
 
-- [wimwenigerkind/backup-container](https://github.com/wimwenigerkind/backup-container) ([0.0.2](https://github.com/wimwenigerkind/backup-container/releases/tag/0.0.2), 5 days ago) - This is an easy-to-use backup solution with integrated webhook notifications.
+- [wimwenigerkind/backup-container](https://github.com/wimwenigerkind/backup-container) ([0.0.3](https://github.com/wimwenigerkind/backup-container/releases/tag/0.0.3), 1 day ago) - This is an easy-to-use backup solution with integrated webhook notifications.
 
 #### 🔀 Some of my recent pull requests
 
 - Add shopware 6.5.8.18
 https://github.com/dockware/dockware/pull/264
-(1 day ago - MERGED)
+(2 days ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
@@ -41,7 +41,7 @@ Repository URL: https://github.com/dockware/dockware
 
 - Add shopware 6.7.0.0-rc3
 https://github.com/dockware/dockware/pull/261
-(1 week ago - MERGED)
+(2 weeks ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
