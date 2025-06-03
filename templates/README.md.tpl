@@ -44,6 +44,14 @@ Repository URL: {{.Repo.URL}}
 
 # Tech Stack
 
+## My Home Lab
+
+| Hardware                                                                                                    | Virtualisierung / Container                           | Network                                                                                            | Software / Dienste                                                                                                   |
+|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| Raspberry Pi 4 (4GB)<br/>MacBook Air 2011(ProxmoxVE)<br/>Hetzner Dedicated Server<br/>Hetzner Cloud Servers | Proxmox VE<br/>Docker & Docker Compose<br/>Kubernetes | UniFI Dream Machine SE<br/>UniFi AP U7 Pro XG<br/>UniFi AP U6 Lite<br/>UniFi Flex Mini 1GbE/2,5GbE | Home Assistant<br/>Portainer<br/>Keycloak<br/>LDAP<br/>Uptime Kume<br/>Gitea<br/>Grafana<br/>Traefik<br/>And more... |
+
+## Languages and Tools
+
 <p align="center">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
@@ -92,5 +100,7 @@ Repository URL: {{.Repo.URL}}
         <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/>
     </a>
 </p>
+
+---
 
 [![An image of @wimwenigerkind's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wimwenigerkind)](https://holopin.io/@wimwenigerkind)
