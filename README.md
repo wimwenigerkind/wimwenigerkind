@@ -11,31 +11,31 @@ Wakatime stats since 2025-03-25
 
 #### 🌱 Check out what I'm currently working on
 
-- [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (4 days ago)
-- [wimwenigerkind/no-debug](https://github.com/wimwenigerkind/no-debug) -  (1 week ago)
-- [wimwenigerkind/boilerplates](https://github.com/wimwenigerkind/boilerplates) -  (1 week ago)
+- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (4 days ago)
+- [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (1 week ago)
+- [wimwenigerkind/no-debug](https://github.com/wimwenigerkind/no-debug) -  (2 weeks ago)
+- [wimwenigerkind/boilerplates](https://github.com/wimwenigerkind/boilerplates) -  (2 weeks ago)
 - [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (2 weeks ago)
-- [wimwenigerkind/backup-container](https://github.com/wimwenigerkind/backup-container) - This is an easy-to-use backup solution with integrated webhook notifications. (2 weeks ago)
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (1 month ago)
-- [wimwenigerkind/satisfactory-server-docker](https://github.com/wimwenigerkind/satisfactory-server-docker) -  (1 month ago)
+- [wimwenigerkind/backup-container](https://github.com/wimwenigerkind/backup-container) - This is an easy-to-use backup solution with integrated webhook notifications. (3 weeks ago)
+- [wimwenigerkind/satisfactory-server-docker](https://github.com/wimwenigerkind/satisfactory-server-docker) -  (2 months ago)
 - [wimwenigerkind/docker-compose-helper](https://github.com/wimwenigerkind/docker-compose-helper) -  (2 months ago)
 - [wimwenigerkind/wimwenigerkind.github.io](https://github.com/wimwenigerkind/wimwenigerkind.github.io) -  (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [wimwenigerkind/backup-container](https://github.com/wimwenigerkind/backup-container) ([0.0.3](https://github.com/wimwenigerkind/backup-container/releases/tag/0.0.3), 2 weeks ago) - This is an easy-to-use backup solution with integrated webhook notifications.
+- [wimwenigerkind/backup-container](https://github.com/wimwenigerkind/backup-container) ([0.0.3](https://github.com/wimwenigerkind/backup-container/releases/tag/0.0.3), 3 weeks ago) - This is an easy-to-use backup solution with integrated webhook notifications.
 
 #### 🔀 Some of my recent pull requests
 
 - Add shopware 6.7.0.0-rc5
 https://github.com/dockware/dockware/pull/266
-(5 days ago - MERGED)
+(1 week ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
 - Add shopware 6.7.0.0-rc4
 https://github.com/dockware/dockware/pull/265
-(2 weeks ago - MERGED)
+(3 weeks ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
@@ -47,7 +47,7 @@ Repository URL: https://github.com/dockware/dockware
 
 - Add Shopware 6.6.10.4
 https://github.com/dockware/dockware/pull/262
-(3 weeks ago - MERGED)
+(1 month ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
@@ -73,6 +73,14 @@ Repository URL: https://github.com/dockware/dockware
 
 
 # Tech Stack
+
+## My Home Lab
+
+| Hardware                                                                                                    | Virtualisierung / Container                           | Network                                                                                            | Software / Dienste                                                                                                   |
+|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| Raspberry Pi 4 (4GB)<br/>MacBook Air 2011(ProxmoxVE)<br/>Hetzner Dedicated Server<br/>Hetzner Cloud Servers | Proxmox VE<br/>Docker & Docker Compose<br/>Kubernetes | UniFI Dream Machine SE<br/>UniFi AP U7 Pro XG<br/>UniFi AP U6 Lite<br/>UniFi Flex Mini 1GbE/2,5GbE | Home Assistant<br/>Portainer<br/>Keycloak<br/>LDAP<br/>Uptime Kume<br/>Gitea<br/>Grafana<br/>Traefik<br/>And more... |
+
+## Languages and Tools
 
 <p align="center">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer">
@@ -122,5 +130,7 @@ Repository URL: https://github.com/dockware/dockware
         <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/>
     </a>
 </p>
+
+---
 
 [![An image of @wimwenigerkind's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wimwenigerkind)](https://holopin.io/@wimwenigerkind)
