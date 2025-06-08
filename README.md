@@ -11,7 +11,8 @@ Wakatime stats since 2025-03-25
 
 #### 🌱 Check out what I'm currently working on
 
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (4 days ago)
+- [vtsykun/packeton](https://github.com/vtsykun/packeton) - :package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos. (1 day ago)
+- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (5 days ago)
 - [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (1 week ago)
 - [wimwenigerkind/no-debug](https://github.com/wimwenigerkind/no-debug) -  (2 weeks ago)
 - [wimwenigerkind/boilerplates](https://github.com/wimwenigerkind/boilerplates) -  (2 weeks ago)
@@ -19,13 +20,19 @@ Wakatime stats since 2025-03-25
 - [wimwenigerkind/backup-container](https://github.com/wimwenigerkind/backup-container) - This is an easy-to-use backup solution with integrated webhook notifications. (3 weeks ago)
 - [wimwenigerkind/satisfactory-server-docker](https://github.com/wimwenigerkind/satisfactory-server-docker) -  (2 months ago)
 - [wimwenigerkind/docker-compose-helper](https://github.com/wimwenigerkind/docker-compose-helper) -  (2 months ago)
-- [wimwenigerkind/wimwenigerkind.github.io](https://github.com/wimwenigerkind/wimwenigerkind.github.io) -  (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [wimwenigerkind/backup-container](https://github.com/wimwenigerkind/backup-container) ([0.0.3](https://github.com/wimwenigerkind/backup-container/releases/tag/0.0.3), 3 weeks ago) - This is an easy-to-use backup solution with integrated webhook notifications.
+- [vtsykun/packeton](https://github.com/vtsykun/packeton) ([v2.7.0](https://github.com/vtsykun/packeton/releases/tag/v2.7.0), 3 months ago) - :package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos.
 
 #### 🔀 Some of my recent pull requests
+
+- Fix GitHub repo links
+https://github.com/vtsykun/packeton/pull/321
+(1 day ago - MERGED)
+:package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos.
+Repository URL: https://github.com/vtsykun/packeton
 
 - Add shopware 6.7.0.0-rc5
 https://github.com/dockware/dockware/pull/266

@@ -1,5 +1,11 @@
 #### 🔀 My recent pull requests
 
+- Fix GitHub repo links
+https://github.com/vtsykun/packeton/pull/321
+(1 day ago - MERGED)
+:package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos.
+Repository URL: https://github.com/vtsykun/packeton
+
 - Add shopware 6.7.0.0-rc5
 https://github.com/dockware/dockware/pull/266
 (1 week ago - MERGED)
