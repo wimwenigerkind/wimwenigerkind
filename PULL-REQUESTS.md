@@ -2,7 +2,7 @@
 
 - Fix GitHub repo links
 https://github.com/vtsykun/packeton/pull/321
-(2 days ago - MERGED)
+(3 days ago - MERGED)
 :package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos.
 Repository URL: https://github.com/vtsykun/packeton
 
