@@ -11,11 +11,11 @@ Wakatime stats since 2025-03-25
 
 #### 🌱 Check out what I'm currently working on
 
-- [vtsykun/packeton](https://github.com/vtsykun/packeton) - :package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos. (3 days ago)
+- [vtsykun/packeton](https://github.com/vtsykun/packeton) - :package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos. (4 days ago)
 - [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (1 week ago)
 - [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (1 week ago)
 - [wimwenigerkind/no-debug](https://github.com/wimwenigerkind/no-debug) -  (2 weeks ago)
-- [wimwenigerkind/boilerplates](https://github.com/wimwenigerkind/boilerplates) -  (2 weeks ago)
+- [wimwenigerkind/boilerplates](https://github.com/wimwenigerkind/boilerplates) -  (3 weeks ago)
 - [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (3 weeks ago)
 - [wimwenigerkind/backup-container](https://github.com/wimwenigerkind/backup-container) - This is an easy-to-use backup solution with integrated webhook notifications. (4 weeks ago)
 - [wimwenigerkind/satisfactory-server-docker](https://github.com/wimwenigerkind/satisfactory-server-docker) -  (2 months ago)
@@ -28,15 +28,21 @@ Wakatime stats since 2025-03-25
 
 #### 🔀 Some of my recent pull requests
 
+- Add shopware 6.6.10.5
+https://github.com/dockware/dockware/pull/267
+(1 day ago - OPEN)
+Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
+Repository URL: https://github.com/dockware/dockware
+
 - Fix GitHub repo links
 https://github.com/vtsykun/packeton/pull/321
-(3 days ago - MERGED)
+(4 days ago - MERGED)
 :package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos.
 Repository URL: https://github.com/vtsykun/packeton
 
 - Add shopware 6.7.0.0-rc5
 https://github.com/dockware/dockware/pull/266
-(1 week ago - MERGED)
+(2 weeks ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
@@ -48,7 +54,7 @@ Repository URL: https://github.com/dockware/dockware
 
 - Add shopware 6.5.8.18
 https://github.com/dockware/dockware/pull/264
-(4 weeks ago - MERGED)
+(1 month ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
