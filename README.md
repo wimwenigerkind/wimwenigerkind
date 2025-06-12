@@ -11,32 +11,32 @@ Wakatime stats since 2025-03-25
 
 #### 🌱 Check out what I'm currently working on
 
-- [vtsykun/packeton](https://github.com/vtsykun/packeton) - :package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos. (4 days ago)
+- [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (1 day ago)
+- [vtsykun/packeton](https://github.com/vtsykun/packeton) - :package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos. (5 days ago)
 - [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (1 week ago)
-- [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (1 week ago)
-- [wimwenigerkind/no-debug](https://github.com/wimwenigerkind/no-debug) -  (2 weeks ago)
+- [wimwenigerkind/no-debug](https://github.com/wimwenigerkind/no-debug) -  (3 weeks ago)
 - [wimwenigerkind/boilerplates](https://github.com/wimwenigerkind/boilerplates) -  (3 weeks ago)
 - [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (3 weeks ago)
-- [wimwenigerkind/backup-container](https://github.com/wimwenigerkind/backup-container) - This is an easy-to-use backup solution with integrated webhook notifications. (4 weeks ago)
+- [wimwenigerkind/backup-container](https://github.com/wimwenigerkind/backup-container) - This is an easy-to-use backup solution with integrated webhook notifications. (1 month ago)
 - [wimwenigerkind/satisfactory-server-docker](https://github.com/wimwenigerkind/satisfactory-server-docker) -  (2 months ago)
 - [wimwenigerkind/docker-compose-helper](https://github.com/wimwenigerkind/docker-compose-helper) -  (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [wimwenigerkind/backup-container](https://github.com/wimwenigerkind/backup-container) ([0.0.3](https://github.com/wimwenigerkind/backup-container/releases/tag/0.0.3), 4 weeks ago) - This is an easy-to-use backup solution with integrated webhook notifications.
+- [wimwenigerkind/backup-container](https://github.com/wimwenigerkind/backup-container) ([0.0.3](https://github.com/wimwenigerkind/backup-container/releases/tag/0.0.3), 1 month ago) - This is an easy-to-use backup solution with integrated webhook notifications.
 - [vtsykun/packeton](https://github.com/vtsykun/packeton) ([v2.7.0](https://github.com/vtsykun/packeton/releases/tag/v2.7.0), 3 months ago) - :package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos.
 
 #### 🔀 Some of my recent pull requests
 
 - Add shopware 6.6.10.5
 https://github.com/dockware/dockware/pull/267
-(1 day ago - OPEN)
+(2 days ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
 - Fix GitHub repo links
 https://github.com/vtsykun/packeton/pull/321
-(4 days ago - MERGED)
+(5 days ago - MERGED)
 :package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos.
 Repository URL: https://github.com/vtsykun/packeton
 
@@ -48,7 +48,7 @@ Repository URL: https://github.com/dockware/dockware
 
 - Add shopware 6.7.0.0-rc4
 https://github.com/dockware/dockware/pull/265
-(3 weeks ago - MERGED)
+(4 weeks ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
