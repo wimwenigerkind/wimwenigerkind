@@ -2,13 +2,13 @@
 
 - Add shopware 6.6.10.5
 https://github.com/dockware/dockware/pull/267
-(2 days ago - MERGED)
+(3 days ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
 - Fix GitHub repo links
 https://github.com/vtsykun/packeton/pull/321
-(5 days ago - MERGED)
+(6 days ago - MERGED)
 :package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos.
 Repository URL: https://github.com/vtsykun/packeton
 
