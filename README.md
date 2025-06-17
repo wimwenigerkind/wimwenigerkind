@@ -11,12 +11,12 @@ Wakatime stats since 2025-03-25
 
 #### 🌱 Check out what I'm currently working on
 
-- [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (1 day ago)
-- [wimwenigerkind/homebrew](https://github.com/wimwenigerkind/homebrew) - Homebrew tab (3 days ago)
-- [wimwenigerkind/brew-newenv](https://github.com/wimwenigerkind/brew-newenv) - Generate .env files for projects from predefined templates (3 days ago)
-- [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (5 days ago)
+- [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (2 days ago)
+- [wimwenigerkind/homebrew](https://github.com/wimwenigerkind/homebrew) - Homebrew tab (4 days ago)
+- [wimwenigerkind/brew-newenv](https://github.com/wimwenigerkind/brew-newenv) - Generate .env files for projects from predefined templates (4 days ago)
+- [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (6 days ago)
 - [vtsykun/packeton](https://github.com/vtsykun/packeton) - :package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos. (1 week ago)
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (1 week ago)
+- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (2 weeks ago)
 - [wimwenigerkind/no-debug](https://github.com/wimwenigerkind/no-debug) -  (3 weeks ago)
 - [wimwenigerkind/boilerplates](https://github.com/wimwenigerkind/boilerplates) -  (3 weeks ago)
 - [wimwenigerkind/backup-container](https://github.com/wimwenigerkind/backup-container) - This is an easy-to-use backup solution with integrated webhook notifications. (1 month ago)
@@ -30,7 +30,7 @@ Wakatime stats since 2025-03-25
 
 - Add shopware 6.6.10.5
 https://github.com/dockware/dockware/pull/267
-(6 days ago - MERGED)
+(1 week ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
