@@ -11,15 +11,15 @@ Wakatime stats since 2025-03-25
 
 #### 🌱 Check out what I'm currently working on
 
-- [wimwenigerkind/zshrc-scripts](https://github.com/wimwenigerkind/zshrc-scripts) -  (1 day ago)
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (1 day ago)
-- [wimwenigerkind/elasticsearch-example](https://github.com/wimwenigerkind/elasticsearch-example) - A example for working with elasticsearch (1 day ago)
-- [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (2 days ago)
-- [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (4 days ago)
-- [wimwenigerkind/homebrew](https://github.com/wimwenigerkind/homebrew) - Homebrew tab (6 days ago)
-- [wimwenigerkind/brew-newenv](https://github.com/wimwenigerkind/brew-newenv) - Generate .env files for projects from predefined templates (6 days ago)
-- [vtsykun/packeton](https://github.com/vtsykun/packeton) - :package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos. (1 week ago)
-- [wimwenigerkind/no-debug](https://github.com/wimwenigerkind/no-debug) -  (4 weeks ago)
+- [wimwenigerkind/personizer-php](https://github.com/wimwenigerkind/personizer-php) -  (1 day ago)
+- [wimwenigerkind/personizer-rest](https://github.com/wimwenigerkind/personizer-rest) -  (1 day ago)
+- [wimwenigerkind/zshrc-scripts](https://github.com/wimwenigerkind/zshrc-scripts) -  (2 days ago)
+- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (2 days ago)
+- [wimwenigerkind/elasticsearch-example](https://github.com/wimwenigerkind/elasticsearch-example) - A example for working with elasticsearch (2 days ago)
+- [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (3 days ago)
+- [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (5 days ago)
+- [wimwenigerkind/homebrew](https://github.com/wimwenigerkind/homebrew) - Homebrew tab (1 week ago)
+- [wimwenigerkind/brew-newenv](https://github.com/wimwenigerkind/brew-newenv) - Generate .env files for projects from predefined templates (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -30,7 +30,7 @@ Wakatime stats since 2025-03-25
 
 - Add shopware 6.7.0.0
 https://github.com/dockware/dockware/pull/268
-(2 days ago - MERGED)
+(3 days ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
