@@ -65,6 +65,8 @@ Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version withi
 Repository URL: https://github.com/dockware/dockware
 
 
+[See all my pull requests](https://github.com/wimwenigerkind/wimwenigerkind/blob/main/PULL-REQUESTS.md)
+
 # Contributions
 
 [![Shopware Docker](https://github-readme-stats.vercel.app/api/pin/?username=dockware&repo=dockware)](https://github.com/dockware/dockware)
