@@ -28,6 +28,8 @@ Wakatime stats since 2025-03-25
 Repository URL: {{.Repo.URL}}
 {{end}}
 
+[See all my pull requests](https://github.com/wimwenigerkind/wimwenigerkind/blob/main/PULL-REQUESTS.md)
+
 # Contributions
 
 [![Shopware Docker](https://github-readme-stats.vercel.app/api/pin/?username=dockware&repo=dockware)](https://github.com/dockware/dockware)
