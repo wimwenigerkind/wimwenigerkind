@@ -2,19 +2,19 @@
 
 - Keycloak login integration
 https://github.com/vtsykun/packeton/pull/323
-(3 days ago - OPEN)
+(4 days ago - OPEN)
 :package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos.
 Repository URL: https://github.com/vtsykun/packeton
 
 - Add shopware 6.7.0.0
 https://github.com/dockware/dockware/pull/268
-(6 days ago - MERGED)
+(1 week ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
 - Add shopware 6.6.10.5
 https://github.com/dockware/dockware/pull/267
-(1 week ago - MERGED)
+(2 weeks ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 

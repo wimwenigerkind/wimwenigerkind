@@ -11,11 +11,11 @@ Wakatime stats since 2025-03-25
 
 #### 🌱 Check out what I'm currently working on
 
-- [wimwenigerkind/personizer-rest](https://github.com/wimwenigerkind/personizer-rest) -  (3 days ago)
-- [wimwenigerkind/personizer-php](https://github.com/wimwenigerkind/personizer-php) -  (4 days ago)
-- [wimwenigerkind/zshrc-scripts](https://github.com/wimwenigerkind/zshrc-scripts) -  (5 days ago)
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (5 days ago)
-- [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (6 days ago)
+- [wimwenigerkind/personizer-rest](https://github.com/wimwenigerkind/personizer-rest) -  (4 days ago)
+- [wimwenigerkind/personizer-php](https://github.com/wimwenigerkind/personizer-php) -  (5 days ago)
+- [wimwenigerkind/zshrc-scripts](https://github.com/wimwenigerkind/zshrc-scripts) -  (6 days ago)
+- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (6 days ago)
+- [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (1 week ago)
 - [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (1 week ago)
 - [wimwenigerkind/homebrew](https://github.com/wimwenigerkind/homebrew) - Homebrew tab (1 week ago)
 - [wimwenigerkind/brew-newenv](https://github.com/wimwenigerkind/brew-newenv) - Generate .env files for projects from predefined templates (1 week ago)
@@ -30,19 +30,19 @@ Wakatime stats since 2025-03-25
 
 - Keycloak login integration
 https://github.com/vtsykun/packeton/pull/323
-(3 days ago - OPEN)
+(4 days ago - OPEN)
 :package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos.
 Repository URL: https://github.com/vtsykun/packeton
 
 - Add shopware 6.7.0.0
 https://github.com/dockware/dockware/pull/268
-(6 days ago - MERGED)
+(1 week ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
 - Add shopware 6.6.10.5
 https://github.com/dockware/dockware/pull/267
-(1 week ago - MERGED)
+(2 weeks ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
