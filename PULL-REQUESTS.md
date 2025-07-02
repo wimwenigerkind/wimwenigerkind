@@ -1,5 +1,11 @@
 #### 🔀 My recent pull requests
 
+- Add shopware 6.7.0.1
+https://github.com/dockware/dockware/pull/271
+(1 day ago - MERGED)
+Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
+Repository URL: https://github.com/dockware/dockware
+
 - Keycloak login integration
 https://github.com/vtsykun/packeton/pull/323
 (1 week ago - OPEN)

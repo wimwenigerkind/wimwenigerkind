@@ -11,12 +11,12 @@ Wakatime stats since 2025-03-25
 
 #### 🌱 Check out what I'm currently working on
 
-- [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (4 days ago)
+- [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (1 day ago)
+- [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (5 days ago)
 - [wimwenigerkind/personizer-rest](https://github.com/wimwenigerkind/personizer-rest) -  (1 week ago)
 - [wimwenigerkind/personizer-php](https://github.com/wimwenigerkind/personizer-php) -  (1 week ago)
-- [wimwenigerkind/zshrc-scripts](https://github.com/wimwenigerkind/zshrc-scripts) -  (1 week ago)
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (1 week ago)
-- [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (2 weeks ago)
+- [wimwenigerkind/zshrc-scripts](https://github.com/wimwenigerkind/zshrc-scripts) -  (2 weeks ago)
+- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (2 weeks ago)
 - [wimwenigerkind/homebrew-tab](https://github.com/wimwenigerkind/homebrew-tab) - Homebrew tab (2 weeks ago)
 - [wimwenigerkind/brew-newenv](https://github.com/wimwenigerkind/brew-newenv) - Generate .env files for projects from predefined templates (2 weeks ago)
 - [vtsykun/packeton](https://github.com/vtsykun/packeton) - :package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos. (3 weeks ago)
@@ -27,6 +27,12 @@ Wakatime stats since 2025-03-25
 - [vtsykun/packeton](https://github.com/vtsykun/packeton) ([v2.7.0](https://github.com/vtsykun/packeton/releases/tag/v2.7.0), 4 months ago) - :package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos.
 
 #### 🔀 Some of my recent pull requests
+
+- Add shopware 6.7.0.1
+https://github.com/dockware/dockware/pull/271
+(1 day ago - MERGED)
+Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
+Repository URL: https://github.com/dockware/dockware
 
 - Keycloak login integration
 https://github.com/vtsykun/packeton/pull/323
@@ -54,12 +60,6 @@ Repository URL: https://github.com/vtsykun/packeton
 
 - Add shopware 6.7.0.0-rc5
 https://github.com/dockware/dockware/pull/266
-(1 month ago - MERGED)
-Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
-Repository URL: https://github.com/dockware/dockware
-
-- Add shopware 6.7.0.0-rc4
-https://github.com/dockware/dockware/pull/265
 (1 month ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
