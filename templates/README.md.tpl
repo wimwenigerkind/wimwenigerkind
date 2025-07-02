@@ -48,7 +48,7 @@ Repository URL: {{.Repo.URL}}
 
 | Hardware                                                                                                    | Virtualisierung / Container                           | Network                                                                                            | Software / Dienste                                                                                                   |
 |-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| Raspberry Pi 4 (4GB)<br/>MacBook Air 2011(ProxmoxVE)<br/>Hetzner Dedicated Server<br/>Hetzner Cloud Servers | Proxmox VE<br/>Docker & Docker Compose<br/>Kubernetes | UniFI Dream Machine SE<br/>UniFi AP U7 Pro XG<br/>UniFi AP U6 Lite<br/>UniFi Flex Mini 1GbE/2,5GbE | Home Assistant<br/>Portainer<br/>Keycloak<br/>LDAP<br/>Uptime Kume<br/>Gitea<br/>Grafana<br/>Traefik<br/>And more... |
+| Raspberry Pi 4 (4GB)<br/>MacBook Air 2011(ProxmoxVE)<br/>Hetzner Dedicated Server<br/>Hetzner Cloud Servers | Proxmox VE<br/>Docker & Docker Compose<br/>Kubernetes | UniFI Dream Machine SE<br/>UniFi AP U7 Pro XG<br/>UniFi AP U6 Lite<br/>UniFi Flex Mini 1GbE/2,5GbE | Home Assistant<br/>Portainer<br/>Keycloak<br/>LDAP<br/>Uptime Kuma<br/>Gitea<br/>Grafana<br/>Traefik<br/>And more... |
 
 ## Languages and Tools
 
