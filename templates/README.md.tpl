@@ -37,6 +37,8 @@ Repository URL: {{.Repo.URL}}
 
 # Stats
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=wimwenigerkind&theme=catppuccin-frappe&hide_border=true&border_radius=8&card_width=520)](https://git.io/streak-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wimwenigerkind&layout=compact)
 
 ![GitHub activity stats](https://github-readme-stats.vercel.app/api?username=wimwenigerkind&show_icons=true&count_private=true)
