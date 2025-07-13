@@ -11,7 +11,7 @@ Wakatime stats since 2025-03-25
 
 #### 🌱 Check out what I'm currently working on
 
-- [wimwenigerkind/wswcli](https://github.com/wimwenigerkind/wswcli) - Wim Shopware CLI (1 day ago)
+- [wimwenigerkind/wswcli](https://github.com/wimwenigerkind/wswcli) - Wim Shopware CLI (2 days ago)
 - [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (1 week ago)
 - [wimwenigerkind/homebrew-tap](https://github.com/wimwenigerkind/homebrew-tap) - Homebrew tab (1 week ago)
 - [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (1 week ago)
@@ -19,11 +19,11 @@ Wakatime stats since 2025-03-25
 - [wimwenigerkind/personizer-php](https://github.com/wimwenigerkind/personizer-php) -  (3 weeks ago)
 - [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (3 weeks ago)
 - [wimwenigerkind/zshrc-scripts](https://github.com/wimwenigerkind/zshrc-scripts) -  (3 weeks ago)
-- [wimwenigerkind/brew-newenv](https://github.com/wimwenigerkind/brew-newenv) - Generate .env files for projects from predefined templates (4 weeks ago)
+- [wimwenigerkind/brew-newenv](https://github.com/wimwenigerkind/brew-newenv) - Generate .env files for projects from predefined templates (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [wimwenigerkind/wswcli](https://github.com/wimwenigerkind/wswcli) ([v2.2.0](https://github.com/wimwenigerkind/wswcli/releases/tag/v2.2.0), 1 day ago) - Wim Shopware CLI
+- [wimwenigerkind/wswcli](https://github.com/wimwenigerkind/wswcli) ([v2.2.0](https://github.com/wimwenigerkind/wswcli/releases/tag/v2.2.0), 2 days ago) - Wim Shopware CLI
 - [wimwenigerkind/backup-container](https://github.com/wimwenigerkind/backup-container) ([0.0.3](https://github.com/wimwenigerkind/backup-container/releases/tag/0.0.3), 2 months ago) - This is an easy-to-use backup solution with integrated webhook notifications.
 - [vtsykun/packeton](https://github.com/vtsykun/packeton) ([v2.7.0](https://github.com/vtsykun/packeton/releases/tag/v2.7.0), 4 months ago) - :package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos.
 
