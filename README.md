@@ -11,19 +11,19 @@ Wakatime stats since 2025-03-25
 
 #### 🌱 Check out what I'm currently working on
 
-- [wimwenigerkind/wswcli](https://github.com/wimwenigerkind/wswcli) - Wim Shopware CLI (5 days ago)
+- [wimwenigerkind/wswcli](https://github.com/wimwenigerkind/wswcli) - Wim Shopware CLI (6 days ago)
 - [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (1 week ago)
 - [wimwenigerkind/homebrew-tap](https://github.com/wimwenigerkind/homebrew-tap) - Homebrew tab (1 week ago)
 - [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (2 weeks ago)
 - [wimwenigerkind/personizer-rest](https://github.com/wimwenigerkind/personizer-rest) -  (3 weeks ago)
-- [wimwenigerkind/personizer-php](https://github.com/wimwenigerkind/personizer-php) -  (3 weeks ago)
+- [wimwenigerkind/personizer-php](https://github.com/wimwenigerkind/personizer-php) -  (4 weeks ago)
 - [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (4 weeks ago)
 - [wimwenigerkind/zshrc-scripts](https://github.com/wimwenigerkind/zshrc-scripts) -  (4 weeks ago)
 - [wimwenigerkind/brew-newenv](https://github.com/wimwenigerkind/brew-newenv) - Generate .env files for projects from predefined templates (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [wimwenigerkind/wswcli](https://github.com/wimwenigerkind/wswcli) ([v2.2.0](https://github.com/wimwenigerkind/wswcli/releases/tag/v2.2.0), 5 days ago) - Wim Shopware CLI
+- [wimwenigerkind/wswcli](https://github.com/wimwenigerkind/wswcli) ([v2.2.0](https://github.com/wimwenigerkind/wswcli/releases/tag/v2.2.0), 6 days ago) - Wim Shopware CLI
 - [wimwenigerkind/backup-container](https://github.com/wimwenigerkind/backup-container) ([0.0.3](https://github.com/wimwenigerkind/backup-container/releases/tag/0.0.3), 2 months ago) - This is an easy-to-use backup solution with integrated webhook notifications.
 - [vtsykun/packeton](https://github.com/vtsykun/packeton) ([v2.7.0](https://github.com/vtsykun/packeton/releases/tag/v2.7.0), 4 months ago) - :package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos.
 
@@ -43,7 +43,7 @@ Repository URL: https://github.com/vtsykun/packeton
 
 - Add shopware 6.7.0.0
 https://github.com/dockware/dockware/pull/268
-(4 weeks ago - MERGED)
+(1 month ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
