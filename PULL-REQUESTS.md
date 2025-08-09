@@ -44,7 +44,7 @@ Repository URL: https://github.com/dockware/dockware
 
 - Add shopware 6.6.10.5
 https://github.com/dockware/dockware/pull/267
-(1 month ago - MERGED)
+(2 months ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
