@@ -12,11 +12,11 @@ Wakatime stats since 2025-03-25
 #### 🌱 Check out what I'm currently working on
 
 - [wimwenigerkind/go-pipeline](https://github.com/wimwenigerkind/go-pipeline) -  (1 day ago)
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (2 days ago)
+- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (3 days ago)
 - [wimwenigerkind/wim-cli](https://github.com/wimwenigerkind/wim-cli) -  (1 week ago)
 - [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (1 week ago)
 - [wimwenigerkind/ipmi-prometheus-exporter](https://github.com/wimwenigerkind/ipmi-prometheus-exporter) -  (1 week ago)
-- [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (1 week ago)
+- [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (2 weeks ago)
 - [wimwenigerkind/elgato-stream-deck-plugin-github-stars](https://github.com/wimwenigerkind/elgato-stream-deck-plugin-github-stars) -  (2 weeks ago)
 - [wimwenigerkind/userscripts](https://github.com/wimwenigerkind/userscripts) -  (3 weeks ago)
 - [wimwenigerkind/wswcli](https://github.com/wimwenigerkind/wswcli) - Wim CLI (3 weeks ago)
@@ -31,7 +31,7 @@ Wakatime stats since 2025-03-25
 
 - Add shopware 6.7.1.2
 https://github.com/dockware/dockware/pull/279
-(1 week ago - MERGED)
+(2 weeks ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
@@ -43,7 +43,7 @@ Repository URL: https://github.com/dockware/dockware
 
 - Add shopware 6.7.1.0
 https://github.com/dockware/dockware/pull/277
-(2 weeks ago - MERGED)
+(3 weeks ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
