@@ -11,8 +11,8 @@ Wakatime stats since 2025-03-25
 
 #### 🌱 Check out what I'm currently working on
 
-- [wimwenigerkind/go-pipeline](https://github.com/wimwenigerkind/go-pipeline) -  (2 days ago)
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (4 days ago)
+- [wimwenigerkind/go-pipeline](https://github.com/wimwenigerkind/go-pipeline) -  (3 days ago)
+- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (5 days ago)
 - [wimwenigerkind/wim-cli](https://github.com/wimwenigerkind/wim-cli) -  (1 week ago)
 - [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (1 week ago)
 - [wimwenigerkind/ipmi-prometheus-exporter](https://github.com/wimwenigerkind/ipmi-prometheus-exporter) -  (1 week ago)
@@ -67,7 +67,7 @@ Repository URL: https://github.com/vtsykun/packeton
 
 - Add shopware 6.7.0.0
 https://github.com/dockware/dockware/pull/268
-(1 month ago - MERGED)
+(2 months ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
