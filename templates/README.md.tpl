@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wim Wenigerkind</h1>
 <h3 align="center">16 years old and a passionate developer from Germany</h3>
 
-- 🌱 I’m currently learning **PHP, Symfony, Shopware and Java**
+- 🌱 I’m currently learning **PHP, GO, Symfony, Shopware and Java**
 
 - 📫 How to reach me **info@wimwenigerkind.com**
 
