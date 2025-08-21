@@ -11,45 +11,45 @@ Wakatime stats since 2025-03-25
 
 #### 🌱 Check out what I'm currently working on
 
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (today)
-- [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (2 days ago)
-- [wimwenigerkind/elgato-stream-deck-plugin-github-stars](https://github.com/wimwenigerkind/elgato-stream-deck-plugin-github-stars) -  (3 days ago)
-- [wimwenigerkind/userscripts](https://github.com/wimwenigerkind/userscripts) -  (1 week ago)
-- [wimwenigerkind/wswcli](https://github.com/wimwenigerkind/wswcli) - Wim CLI (1 week ago)
-- [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (4 weeks ago)
-- [wimwenigerkind/homebrew-tap](https://github.com/wimwenigerkind/homebrew-tap) - Homebrew tab (4 weeks ago)
-- [wimwenigerkind/personizer-rest](https://github.com/wimwenigerkind/personizer-rest) -  (1 month ago)
-- [wimwenigerkind/personizer-php](https://github.com/wimwenigerkind/personizer-php) -  (1 month ago)
+- [wimwenigerkind/go-excel-sql](https://github.com/wimwenigerkind/go-excel-sql) - Excel to SQL with GO (1 day ago)
+- [wimwenigerkind/go-pipeline](https://github.com/wimwenigerkind/go-pipeline) -  (3 days ago)
+- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (1 week ago)
+- [wimwenigerkind/wim-cli](https://github.com/wimwenigerkind/wim-cli) -  (2 weeks ago)
+- [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (2 weeks ago)
+- [wimwenigerkind/ipmi-prometheus-exporter](https://github.com/wimwenigerkind/ipmi-prometheus-exporter) -  (2 weeks ago)
+- [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (3 weeks ago)
+- [wimwenigerkind/elgato-stream-deck-plugin-github-stars](https://github.com/wimwenigerkind/elgato-stream-deck-plugin-github-stars) -  (3 weeks ago)
+- [wimwenigerkind/wswcli](https://github.com/wimwenigerkind/wswcli) - Wim CLI (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [wimwenigerkind/wswcli](https://github.com/wimwenigerkind/wswcli) ([v2.5.0](https://github.com/wimwenigerkind/wswcli/releases/tag/v2.5.0), 1 week ago) - Wim CLI
-- [wimwenigerkind/backup-container](https://github.com/wimwenigerkind/backup-container) ([0.0.3](https://github.com/wimwenigerkind/backup-container/releases/tag/0.0.3), 2 months ago) - This is an easy-to-use backup solution with integrated webhook notifications.
+- [wimwenigerkind/wswcli](https://github.com/wimwenigerkind/wswcli) ([v2.5.0](https://github.com/wimwenigerkind/wswcli/releases/tag/v2.5.0), 1 month ago) - Wim CLI
+- [wimwenigerkind/backup-container](https://github.com/wimwenigerkind/backup-container) ([0.0.3](https://github.com/wimwenigerkind/backup-container/releases/tag/0.0.3), 3 months ago) - This is an easy-to-use backup solution with integrated webhook notifications.
 - [vtsykun/packeton](https://github.com/vtsykun/packeton) ([v2.7.0](https://github.com/vtsykun/packeton/releases/tag/v2.7.0), 5 months ago) - :package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos.
 
 #### 🔀 Some of my recent pull requests
 
 - Add shopware 6.7.1.2
 https://github.com/dockware/dockware/pull/279
-(2 days ago - MERGED)
+(3 weeks ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
 - Add shopware 6.7.1.1
 https://github.com/dockware/dockware/pull/278
-(4 days ago - MERGED)
+(3 weeks ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
 - Add shopware 6.7.1.0
 https://github.com/dockware/dockware/pull/277
-(1 week ago - MERGED)
+(4 weeks ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
 - Add shopware 6.6.10.6
 https://github.com/dockware/dockware/pull/276
-(1 week ago - MERGED)
+(1 month ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
@@ -61,19 +61,13 @@ Repository URL: https://github.com/dockware/dockware
 
 - Keycloak login integration
 https://github.com/vtsykun/packeton/pull/323
-(1 month ago - OPEN)
+(2 months ago - OPEN)
 :package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos.
 Repository URL: https://github.com/vtsykun/packeton
 
 - Add shopware 6.7.0.0
 https://github.com/dockware/dockware/pull/268
-(1 month ago - MERGED)
-Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
-Repository URL: https://github.com/dockware/dockware
-
-- Add shopware 6.6.10.5
-https://github.com/dockware/dockware/pull/267
-(1 month ago - MERGED)
+(2 months ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
