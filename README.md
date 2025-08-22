@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wim Wenigerkind</h1>
 <h3 align="center">16 years old and a passionate developer from Germany</h3>
 
-- 🌱 I’m currently learning **PHP, Symfony, Shopware and Java**
+- 🌱 I’m currently learning **PHP, GO, Symfony, Shopware and Java**
 
 - 📫 How to reach me **info@wimwenigerkind.com**
 
@@ -11,15 +11,15 @@ Wakatime stats since 2025-03-25
 
 #### 🌱 Check out what I'm currently working on
 
-- [wimwenigerkind/go-excel-sql](https://github.com/wimwenigerkind/go-excel-sql) - Excel to SQL with GO (1 day ago)
-- [wimwenigerkind/go-pipeline](https://github.com/wimwenigerkind/go-pipeline) -  (3 days ago)
+- [wimwenigerkind/go-excel-sql](https://github.com/wimwenigerkind/go-excel-sql) - Excel to SQL with GO (2 days ago)
+- [wimwenigerkind/go-pipeline](https://github.com/wimwenigerkind/go-pipeline) -  (4 days ago)
 - [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (1 week ago)
 - [wimwenigerkind/wim-cli](https://github.com/wimwenigerkind/wim-cli) -  (2 weeks ago)
 - [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (2 weeks ago)
 - [wimwenigerkind/ipmi-prometheus-exporter](https://github.com/wimwenigerkind/ipmi-prometheus-exporter) -  (2 weeks ago)
 - [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (3 weeks ago)
 - [wimwenigerkind/elgato-stream-deck-plugin-github-stars](https://github.com/wimwenigerkind/elgato-stream-deck-plugin-github-stars) -  (3 weeks ago)
-- [wimwenigerkind/wswcli](https://github.com/wimwenigerkind/wswcli) - Wim CLI (1 month ago)
+- [wimwenigerkind/userscripts](https://github.com/wimwenigerkind/userscripts) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -28,6 +28,12 @@ Wakatime stats since 2025-03-25
 - [vtsykun/packeton](https://github.com/vtsykun/packeton) ([v2.7.0](https://github.com/vtsykun/packeton/releases/tag/v2.7.0), 5 months ago) - :package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos.
 
 #### 🔀 Some of my recent pull requests
+
+- Feature/ntr run create tables migration
+https://github.com/wimwenigerkind/LetsMeet/pull/1
+(1 day ago - OPEN)
+
+Repository URL: https://github.com/wimwenigerkind/LetsMeet
 
 - Add shopware 6.7.1.2
 https://github.com/dockware/dockware/pull/279
@@ -64,12 +70,6 @@ https://github.com/vtsykun/packeton/pull/323
 (2 months ago - OPEN)
 :package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos.
 Repository URL: https://github.com/vtsykun/packeton
-
-- Add shopware 6.7.0.0
-https://github.com/dockware/dockware/pull/268
-(2 months ago - MERGED)
-Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
-Repository URL: https://github.com/dockware/dockware
 
 
 [See all my pull requests](https://github.com/wimwenigerkind/wimwenigerkind/blob/main/PULL-REQUESTS.md)

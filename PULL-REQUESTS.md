@@ -1,5 +1,11 @@
 #### 🔀 My recent pull requests
 
+- Feature/ntr run create tables migration
+https://github.com/wimwenigerkind/LetsMeet/pull/1
+(1 day ago - OPEN)
+
+Repository URL: https://github.com/wimwenigerkind/LetsMeet
+
 - Add shopware 6.7.1.2
 https://github.com/dockware/dockware/pull/279
 (3 weeks ago - MERGED)
