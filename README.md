@@ -11,12 +11,12 @@ Wakatime stats since 2025-03-25
 
 #### 🌱 Check out what I'm currently working on
 
-- [wimwenigerkind/go-sql-time-machine](https://github.com/wimwenigerkind/go-sql-time-machine) -  (3 days ago)
-- [wimwenigerkind/go-excel-sql](https://github.com/wimwenigerkind/go-excel-sql) - Excel to SQL with GO (5 days ago)
+- [wimwenigerkind/go-sql-time-machine](https://github.com/wimwenigerkind/go-sql-time-machine) -  (4 days ago)
+- [wimwenigerkind/go-excel-sql](https://github.com/wimwenigerkind/go-excel-sql) - Excel to SQL with GO (6 days ago)
 - [wimwenigerkind/go-pipeline](https://github.com/wimwenigerkind/go-pipeline) -  (1 week ago)
 - [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (2 weeks ago)
 - [wimwenigerkind/wim-cli](https://github.com/wimwenigerkind/wim-cli) -  (2 weeks ago)
-- [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (2 weeks ago)
+- [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (3 weeks ago)
 - [wimwenigerkind/ipmi-prometheus-exporter](https://github.com/wimwenigerkind/ipmi-prometheus-exporter) -  (3 weeks ago)
 - [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (3 weeks ago)
 - [wimwenigerkind/elgato-stream-deck-plugin-github-stars](https://github.com/wimwenigerkind/elgato-stream-deck-plugin-github-stars) -  (3 weeks ago)
@@ -31,7 +31,7 @@ Wakatime stats since 2025-03-25
 
 - Feature/ntr run create tables migration
 https://github.com/wimwenigerkind/LetsMeet/pull/1
-(4 days ago - OPEN)
+(5 days ago - OPEN)
 
 Repository URL: https://github.com/wimwenigerkind/LetsMeet
 
@@ -43,7 +43,7 @@ Repository URL: https://github.com/dockware/dockware
 
 - Add shopware 6.7.1.1
 https://github.com/dockware/dockware/pull/278
-(3 weeks ago - MERGED)
+(4 weeks ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
@@ -64,12 +64,6 @@ https://github.com/dockware/dockware/pull/271
 (1 month ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
-
-- Keycloak login integration
-https://github.com/vtsykun/packeton/pull/323
-(2 months ago - OPEN)
-:package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos.
-Repository URL: https://github.com/vtsykun/packeton
 
 
 [See all my pull requests](https://github.com/wimwenigerkind/wimwenigerkind/blob/main/PULL-REQUESTS.md)

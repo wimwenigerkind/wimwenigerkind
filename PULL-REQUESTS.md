@@ -2,7 +2,7 @@
 
 - Feature/ntr run create tables migration
 https://github.com/wimwenigerkind/LetsMeet/pull/1
-(4 days ago - OPEN)
+(5 days ago - OPEN)
 
 Repository URL: https://github.com/wimwenigerkind/LetsMeet
 
@@ -14,7 +14,7 @@ Repository URL: https://github.com/dockware/dockware
 
 - Add shopware 6.7.1.1
 https://github.com/dockware/dockware/pull/278
-(3 weeks ago - MERGED)
+(4 weeks ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
@@ -62,7 +62,7 @@ Repository URL: https://github.com/vtsykun/packeton
 
 - Add shopware 6.7.0.0-rc5
 https://github.com/dockware/dockware/pull/266
-(2 months ago - MERGED)
+(3 months ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
