@@ -2,7 +2,7 @@
 
 - Feature/ntr run create tables migration
 https://github.com/wimwenigerkind/LetsMeet/pull/1
-(5 days ago - OPEN)
+(6 days ago - OPEN)
 
 Repository URL: https://github.com/wimwenigerkind/LetsMeet
 
