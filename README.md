@@ -16,7 +16,7 @@ Wakatime stats since 2025-03-25
 - [wimwenigerkind/go-pipeline](https://github.com/wimwenigerkind/go-pipeline) -  (1 week ago)
 - [wimwenigerkind/wim-cli](https://github.com/wimwenigerkind/wim-cli) -  (3 weeks ago)
 
-#### 🔀 Some of my recent pull requests
+## 🔀 Some of my recent pull requests
 
 - Feature/ntr run create tables migration
 https://github.com/wimwenigerkind/LetsMeet/pull/1
