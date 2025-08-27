@@ -13,6 +13,14 @@ Wakatime stats since 2025-03-25
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
+#### 🔀 Some of my recent pull requests
+{{range recentPullRequests 5}}
+- {{.Title}}
+{{.URL}}
+({{humanize .CreatedAt}} - {{.State}})
+{{.Repo.Description}}
+{{end}}
+
 ## 🏆 Key Contributions
 
 [![Shopware Docker](https://github-readme-stats.vercel.app/api/pin/?username=dockware&repo=dockware&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be&hide_border=true)](https://github.com/dockware/dockware)
