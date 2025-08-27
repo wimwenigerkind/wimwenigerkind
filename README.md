@@ -8,7 +8,7 @@ Wakatime stats since 2025-03-25
 
 [![wakatime](https://wakatime.com/badge/user/e646e006-b4c5-4881-897c-e6eac563592a.svg)](https://wakatime.com/@e646e006-b4c5-4881-897c-e6eac563592a)
 
-## 🚀 Current Pr ojects
+## 🚀 Current Projects
 
 - [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (1 day ago)
 - [wimwenigerkind/go-sql-time-machine](https://github.com/wimwenigerkind/go-sql-time-machine) -  (5 days ago)
