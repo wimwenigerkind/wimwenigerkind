@@ -13,7 +13,7 @@ Wakatime stats since 2025-03-25
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 🔀 Some of my recent pull requests
+## 🔀 Some of my recent pull requests
 {{range recentPullRequests 5}}
 - {{.Title}}
 {{.URL}}
