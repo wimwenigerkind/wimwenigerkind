@@ -10,22 +10,27 @@ Wakatime stats since 2025-03-25
 
 ## 🚀 Current Projects
 
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (1 day ago)
-- [wimwenigerkind/go-sql-time-machine](https://github.com/wimwenigerkind/go-sql-time-machine) -  (5 days ago)
+- [wimwenigerkind/LetsMeet](https://github.com/wimwenigerkind/LetsMeet) -  (1 day ago)
+- [wimwenigerkind/nixcfg](https://github.com/wimwenigerkind/nixcfg) - My NIX config (1 day ago)
+- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (2 days ago)
+- [wimwenigerkind/go-sql-time-machine](https://github.com/wimwenigerkind/go-sql-time-machine) -  (6 days ago)
 - [wimwenigerkind/go-excel-sql](https://github.com/wimwenigerkind/go-excel-sql) - Excel to SQL with GO (1 week ago)
-- [wimwenigerkind/go-pipeline](https://github.com/wimwenigerkind/go-pipeline) -  (1 week ago)
-- [wimwenigerkind/wim-cli](https://github.com/wimwenigerkind/wim-cli) -  (3 weeks ago)
 
 ## 🔀 Some of my recent pull requests
 
+- Add Jest
+https://github.com/wimwenigerkind/LetsMeet/pull/6
+(1 day ago - MERGED)
+
+
 - Feature/ntr run create tables migration
 https://github.com/wimwenigerkind/LetsMeet/pull/1
-(6 days ago - CLOSED)
+(1 week ago - CLOSED)
 
 
 - Add shopware 6.7.1.2
 https://github.com/dockware/dockware/pull/279
-(3 weeks ago - MERGED)
+(4 weeks ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 
 
