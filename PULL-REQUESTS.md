@@ -2,7 +2,7 @@
 
 - Add Jest
 https://github.com/wimwenigerkind/LetsMeet/pull/6
-(5 days ago - MERGED)
+(6 days ago - MERGED)
 
 Repository URL: https://github.com/wimwenigerkind/LetsMeet
 
