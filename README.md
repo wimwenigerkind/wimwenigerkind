@@ -10,17 +10,17 @@ Wakatime stats since 2025-03-25
 
 ## 🚀 Current Projects
 
-- [wimwenigerkind/LetsMeet](https://github.com/wimwenigerkind/LetsMeet) -  (1 day ago)
-- [wimwenigerkind/nixcfg](https://github.com/wimwenigerkind/nixcfg) - My NIX config (4 days ago)
+- [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (1 day ago)
+- [wimwenigerkind/nixcfg](https://github.com/wimwenigerkind/nixcfg) - My NIX config (1 day ago)
+- [wimwenigerkind/LetsMeet](https://github.com/wimwenigerkind/LetsMeet) -  (2 days ago)
 - [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (1 week ago)
 - [wimwenigerkind/go-sql-time-machine](https://github.com/wimwenigerkind/go-sql-time-machine) -  (1 week ago)
-- [wimwenigerkind/go-excel-sql](https://github.com/wimwenigerkind/go-excel-sql) - Excel to SQL with GO (1 week ago)
 
 ## 🔀 Some of my recent pull requests
 
 - Add Jest
 https://github.com/wimwenigerkind/LetsMeet/pull/6
-(6 days ago - MERGED)
+(1 week ago - MERGED)
 
 
 - Feature/ntr run create tables migration
