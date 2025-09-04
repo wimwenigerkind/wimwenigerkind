@@ -10,13 +10,18 @@ Wakatime stats since 2025-03-25
 
 ## 🚀 Current Projects
 
-- [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (1 day ago)
-- [wimwenigerkind/nixcfg](https://github.com/wimwenigerkind/nixcfg) - My NIX config (1 day ago)
-- [wimwenigerkind/LetsMeet](https://github.com/wimwenigerkind/LetsMeet) -  (2 days ago)
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (1 week ago)
-- [wimwenigerkind/go-sql-time-machine](https://github.com/wimwenigerkind/go-sql-time-machine) -  (1 week ago)
+- [wimwenigerkind/lf08_guestbook](https://github.com/wimwenigerkind/lf08_guestbook) -  (1 day ago)
+- [wimwenigerkind/lf08_person-web-service](https://github.com/wimwenigerkind/lf08_person-web-service) -  (1 day ago)
+- [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (1 day ago)
+- [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (2 days ago)
+- [wimwenigerkind/nixcfg](https://github.com/wimwenigerkind/nixcfg) - My NIX config (2 days ago)
 
 ## 🔀 Some of my recent pull requests
+
+- Add shopware 6.7.2.0
+https://github.com/dockware/dockware/pull/281
+(1 day ago - MERGED)
+Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 
 - Add Jest
 https://github.com/wimwenigerkind/LetsMeet/pull/6
@@ -25,13 +30,8 @@ https://github.com/wimwenigerkind/LetsMeet/pull/6
 
 - Feature/ntr run create tables migration
 https://github.com/wimwenigerkind/LetsMeet/pull/1
-(1 week ago - CLOSED)
+(2 weeks ago - CLOSED)
 
-
-- Add shopware 6.7.1.2
-https://github.com/dockware/dockware/pull/279
-(1 month ago - MERGED)
-Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 
 
 ## 🏆 Key Contributions

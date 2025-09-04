@@ -1,5 +1,11 @@
 #### 🔀 My recent pull requests
 
+- Add shopware 6.7.2.0
+https://github.com/dockware/dockware/pull/281
+(1 day ago - MERGED)
+Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
+Repository URL: https://github.com/dockware/dockware
+
 - Add Jest
 https://github.com/wimwenigerkind/LetsMeet/pull/6
 (1 week ago - MERGED)
@@ -8,7 +14,7 @@ Repository URL: https://github.com/wimwenigerkind/LetsMeet
 
 - Feature/ntr run create tables migration
 https://github.com/wimwenigerkind/LetsMeet/pull/1
-(1 week ago - CLOSED)
+(2 weeks ago - CLOSED)
 
 Repository URL: https://github.com/wimwenigerkind/LetsMeet
 
