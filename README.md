@@ -10,17 +10,17 @@ Wakatime stats since 2025-03-25
 
 ## 🚀 Current Projects
 
-- [wimwenigerkind/nixcfg](https://github.com/wimwenigerkind/nixcfg) - My NIX config (2 days ago)
-- [wimwenigerkind/lf08_store](https://github.com/wimwenigerkind/lf08_store) -  (4 days ago)
-- [wimwenigerkind/lf08_person-web-service](https://github.com/wimwenigerkind/lf08_person-web-service) -  (5 days ago)
-- [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (5 days ago)
-- [wimwenigerkind/lf08_guestbook](https://github.com/wimwenigerkind/lf08_guestbook) -  (5 days ago)
+- [wimwenigerkind/nixcfg](https://github.com/wimwenigerkind/nixcfg) - My Nix config (3 days ago)
+- [wimwenigerkind/lf08_store](https://github.com/wimwenigerkind/lf08_store) -  (5 days ago)
+- [wimwenigerkind/lf08_person-web-service](https://github.com/wimwenigerkind/lf08_person-web-service) -  (6 days ago)
+- [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (6 days ago)
+- [wimwenigerkind/lf08_guestbook](https://github.com/wimwenigerkind/lf08_guestbook) -  (6 days ago)
 
 ## 🔀 Some of my recent pull requests
 
 - Add shopware 6.7.2.0
 https://github.com/dockware/dockware/pull/281
-(5 days ago - MERGED)
+(6 days ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 
 - Add Jest
