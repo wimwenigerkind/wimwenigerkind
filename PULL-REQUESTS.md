@@ -2,7 +2,7 @@
 
 - Add shopware 6.7.2.1
 https://github.com/dockware/dockware/pull/282
-(1 day ago - OPEN)
+(2 days ago - OPEN)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
@@ -20,7 +20,7 @@ Repository URL: https://github.com/wimwenigerkind/LetsMeet
 
 - Feature/ntr run create tables migration
 https://github.com/wimwenigerkind/LetsMeet/pull/1
-(2 weeks ago - CLOSED)
+(3 weeks ago - CLOSED)
 
 Repository URL: https://github.com/wimwenigerkind/LetsMeet
 
