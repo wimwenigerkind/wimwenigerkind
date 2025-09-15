@@ -10,17 +10,17 @@ Wakatime stats since 2025-03-25
 
 ## 🚀 Current Projects
 
-- [wimwenigerkind/satisfactory-server-docker](https://github.com/wimwenigerkind/satisfactory-server-docker) -  (2 days ago)
-- [wimwenigerkind/nixcfg](https://github.com/wimwenigerkind/nixcfg) - My Nix config (3 days ago)
-- [wimwenigerkind/lf08_store](https://github.com/wimwenigerkind/lf08_store) -  (4 days ago)
-- [wimwenigerkind/LetsMeet](https://github.com/wimwenigerkind/LetsMeet) -  (4 days ago)
-- [wimwenigerkind/lf08_person-web-service](https://github.com/wimwenigerkind/lf08_person-web-service) -  (1 week ago)
+- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (1 day ago)
+- [wimwenigerkind/nixcfg](https://github.com/wimwenigerkind/nixcfg) - My Nix config (1 day ago)
+- [wimwenigerkind/satisfactory-server-docker](https://github.com/wimwenigerkind/satisfactory-server-docker) -  (3 days ago)
+- [wimwenigerkind/LetsMeet](https://github.com/wimwenigerkind/LetsMeet) -  (5 days ago)
+- [wimwenigerkind/lf08_store](https://github.com/wimwenigerkind/lf08_store) -  (5 days ago)
 
 ## 🔀 Some of my recent pull requests
 
 - Add shopware 6.7.2.1
 https://github.com/dockware/dockware/pull/282
-(5 days ago - OPEN)
+(6 days ago - OPEN)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 
 - Add shopware 6.7.2.0

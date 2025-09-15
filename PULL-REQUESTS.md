@@ -2,7 +2,7 @@
 
 - Add shopware 6.7.2.1
 https://github.com/dockware/dockware/pull/282
-(5 days ago - OPEN)
+(6 days ago - OPEN)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
@@ -62,7 +62,7 @@ Repository URL: https://github.com/vtsykun/packeton
 
 - Add shopware 6.7.0.0
 https://github.com/dockware/dockware/pull/268
-(2 months ago - MERGED)
+(3 months ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
