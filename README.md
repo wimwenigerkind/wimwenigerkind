@@ -10,17 +10,22 @@ Wakatime stats since 2025-03-25
 
 ## 🚀 Current Projects
 
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (1 day ago)
-- [wimwenigerkind/nixcfg](https://github.com/wimwenigerkind/nixcfg) - My Nix config (1 day ago)
-- [wimwenigerkind/satisfactory-server-docker](https://github.com/wimwenigerkind/satisfactory-server-docker) -  (3 days ago)
-- [wimwenigerkind/LetsMeet](https://github.com/wimwenigerkind/LetsMeet) -  (5 days ago)
-- [wimwenigerkind/lf08_store](https://github.com/wimwenigerkind/lf08_store) -  (5 days ago)
+- [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (1 day ago)
+- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (2 days ago)
+- [wimwenigerkind/nixcfg](https://github.com/wimwenigerkind/nixcfg) - My Nix config (2 days ago)
+- [wimwenigerkind/satisfactory-server-docker](https://github.com/wimwenigerkind/satisfactory-server-docker) -  (4 days ago)
+- [wimwenigerkind/LetsMeet](https://github.com/wimwenigerkind/LetsMeet) -  (6 days ago)
 
 ## 🔀 Some of my recent pull requests
 
+- Add shopware 6.7.2.2
+https://github.com/dockware/dockware/pull/283
+(1 day ago - MERGED)
+Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
+
 - Add shopware 6.7.2.1
 https://github.com/dockware/dockware/pull/282
-(6 days ago - OPEN)
+(1 week ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 
 - Add shopware 6.7.2.0
@@ -31,11 +36,6 @@ Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version withi
 - Add Jest
 https://github.com/wimwenigerkind/LetsMeet/pull/6
 (2 weeks ago - MERGED)
-
-
-- Feature/ntr run create tables migration
-https://github.com/wimwenigerkind/LetsMeet/pull/1
-(3 weeks ago - CLOSED)
 
 
 
