@@ -2,7 +2,7 @@
 
 - Add shopware 6.7.2.2
 https://github.com/dockware/dockware/pull/283
-(1 day ago - MERGED)
+(2 days ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
@@ -14,13 +14,13 @@ Repository URL: https://github.com/dockware/dockware
 
 - Add shopware 6.7.2.0
 https://github.com/dockware/dockware/pull/281
-(1 week ago - MERGED)
+(2 weeks ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
 - Add Jest
 https://github.com/wimwenigerkind/LetsMeet/pull/6
-(2 weeks ago - MERGED)
+(3 weeks ago - MERGED)
 
 Repository URL: https://github.com/wimwenigerkind/LetsMeet
 
