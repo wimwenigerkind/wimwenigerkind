@@ -2,7 +2,7 @@
 
 - Add shopware 6.7.2.2
 https://github.com/dockware/dockware/pull/283
-(2 days ago - MERGED)
+(3 days ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
@@ -26,7 +26,7 @@ Repository URL: https://github.com/wimwenigerkind/LetsMeet
 
 - Feature/ntr run create tables migration
 https://github.com/wimwenigerkind/LetsMeet/pull/1
-(3 weeks ago - CLOSED)
+(4 weeks ago - CLOSED)
 
 Repository URL: https://github.com/wimwenigerkind/LetsMeet
 
@@ -62,7 +62,7 @@ Repository URL: https://github.com/dockware/dockware
 
 - Keycloak login integration
 https://github.com/vtsykun/packeton/pull/323
-(2 months ago - OPEN)
+(3 months ago - OPEN)
 :package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos.
 Repository URL: https://github.com/vtsykun/packeton
 
