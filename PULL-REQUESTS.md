@@ -20,7 +20,7 @@ Repository URL: https://github.com/dockware/dockware
 
 - Add Jest
 https://github.com/wimwenigerkind/LetsMeet/pull/6
-(4 weeks ago - MERGED)
+(1 month ago - MERGED)
 
 Repository URL: https://github.com/wimwenigerkind/LetsMeet
 
