@@ -10,10 +10,10 @@ Wakatime stats since 2025-03-25
 
 ## 🚀 Current Projects
 
-- [wimwenigerkind/lf08_store](https://github.com/wimwenigerkind/lf08_store) -  (2 days ago)
-- [wimwenigerkind/personizer-php](https://github.com/wimwenigerkind/personizer-php) -  (3 days ago)
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (4 days ago)
-- [wimwenigerkind/link-shortener](https://github.com/wimwenigerkind/link-shortener) - Simple link shortener (4 days ago)
+- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (1 day ago)
+- [wimwenigerkind/lf08_store](https://github.com/wimwenigerkind/lf08_store) -  (3 days ago)
+- [wimwenigerkind/personizer-php](https://github.com/wimwenigerkind/personizer-php) -  (4 days ago)
+- [wimwenigerkind/link-shortener](https://github.com/wimwenigerkind/link-shortener) - Simple link shortener (5 days ago)
 - [wimwenigerkind/nixcfg](https://github.com/wimwenigerkind/nixcfg) - My Nix config (1 week ago)
 
 ## 🔀 Some of my recent pull requests
