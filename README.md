@@ -10,9 +10,9 @@ Wakatime stats since 2025-03-25
 
 ## 🚀 Current Projects
 
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (2 days ago)
+- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (3 days ago)
 - [wimwenigerkind/lf08_store](https://github.com/wimwenigerkind/lf08_store) -  (1 week ago)
-- [wimwenigerkind/personizer-php](https://github.com/wimwenigerkind/personizer-php) -  (1 week ago)
+- [wimwenigerkind/personizer-php](https://github.com/wimwenigerkind/personizer-php) -  (2 weeks ago)
 - [wimwenigerkind/link-shortener](https://github.com/wimwenigerkind/link-shortener) - Simple link shortener (2 weeks ago)
 - [wimwenigerkind/nixcfg](https://github.com/wimwenigerkind/nixcfg) - My Nix config (2 weeks ago)
 
@@ -25,7 +25,7 @@ Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version withi
 
 - Add shopware 6.7.2.1
 https://github.com/dockware/dockware/pull/282
-(3 weeks ago - MERGED)
+(4 weeks ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 
 - Add shopware 6.7.2.0
