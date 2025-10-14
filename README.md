@@ -10,10 +10,10 @@ Wakatime stats since 2025-03-25
 
 ## 🚀 Current Projects
 
-- [wimwenigerkind/github-release-monitor](https://github.com/wimwenigerkind/github-release-monitor) -  (1 day ago)
-- [wimwenigerkind/ha-addons](https://github.com/wimwenigerkind/ha-addons) - Repository for Home Assistant Add-Ons (2 days ago)
-- [wimwenigerkind/personizer-php](https://github.com/wimwenigerkind/personizer-php) -  (3 days ago)
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (1 week ago)
+- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (1 day ago)
+- [wimwenigerkind/github-release-monitor](https://github.com/wimwenigerkind/github-release-monitor) -  (2 days ago)
+- [wimwenigerkind/ha-addons](https://github.com/wimwenigerkind/ha-addons) - Repository for Home Assistant Add-Ons (3 days ago)
+- [wimwenigerkind/personizer-php](https://github.com/wimwenigerkind/personizer-php) -  (4 days ago)
 - [wimwenigerkind/lf08_store](https://github.com/wimwenigerkind/lf08_store) -  (2 weeks ago)
 
 ## 🔀 Some of my recent pull requests
