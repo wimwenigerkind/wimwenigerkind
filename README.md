@@ -35,7 +35,7 @@ Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version withi
 
 - Add Jest
 https://github.com/wimwenigerkind/LetsMeet/pull/6
-(1 month ago - MERGED)
+(2 months ago - MERGED)
 
 
 
