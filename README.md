@@ -10,9 +10,9 @@ Wakatime stats since 2025-03-25
 
 ## 🚀 Current Projects
 
-- [wimwenigerkind/backup-manager](https://github.com/wimwenigerkind/backup-manager) -  (1 day ago)
+- [wimwenigerkind/backup-manager](https://github.com/wimwenigerkind/backup-manager) -  (2 days ago)
 - [wimwenigerkind/github-release-monitor](https://github.com/wimwenigerkind/github-release-monitor) -  (1 week ago)
-- [wimwenigerkind/clockify-mcp](https://github.com/wimwenigerkind/clockify-mcp) - A MCP Server for Clockify (1 week ago)
+- [wimwenigerkind/clockify-mcp](https://github.com/wimwenigerkind/clockify-mcp) - A MCP Server for Clockify (2 weeks ago)
 - [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (2 weeks ago)
 - [wimwenigerkind/ha-addons](https://github.com/wimwenigerkind/ha-addons) - Repository for Home Assistant Add-Ons (2 weeks ago)
 
