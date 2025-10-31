@@ -1,5 +1,11 @@
 #### 🔀 My recent pull requests
 
+- feature/NEXT-9
+https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/24
+(1 day ago - OPEN)
+
+Repository URL: https://github.com/wimwenigerkind/lf8_starter_2025_authentik
+
 - Add shopware 6.7.2.2
 https://github.com/dockware/dockware/pull/283
 (1 month ago - MERGED)
