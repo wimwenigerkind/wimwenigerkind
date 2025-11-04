@@ -10,9 +10,9 @@ Wakatime stats since 2025-03-25
 
 ## 🚀 Current Projects
 
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (2 days ago)
+- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (3 days ago)
 - [wimwenigerkind/github-release-monitor](https://github.com/wimwenigerkind/github-release-monitor) -  (2 weeks ago)
-- [wimwenigerkind/clockify-mcp](https://github.com/wimwenigerkind/clockify-mcp) - A MCP Server for Clockify (2 weeks ago)
+- [wimwenigerkind/clockify-mcp](https://github.com/wimwenigerkind/clockify-mcp) - A MCP Server for Clockify (3 weeks ago)
 - [wimwenigerkind/ha-addons](https://github.com/wimwenigerkind/ha-addons) - Repository for Home Assistant Add-Ons (3 weeks ago)
 - [wimwenigerkind/personizer-php](https://github.com/wimwenigerkind/personizer-php) -  (3 weeks ago)
 
@@ -20,7 +20,7 @@ Wakatime stats since 2025-03-25
 
 - feature/NEXT-9
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/24
-(4 days ago - OPEN)
+(5 days ago - OPEN)
 
 
 - Add shopware 6.7.2.2

@@ -2,7 +2,7 @@
 
 - feature/NEXT-9
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/24
-(4 days ago - OPEN)
+(5 days ago - OPEN)
 
 Repository URL: https://github.com/wimwenigerkind/lf8_starter_2025_authentik
 
@@ -86,7 +86,7 @@ Repository URL: https://github.com/dockware/dockware
 
 - Fix GitHub repo links
 https://github.com/vtsykun/packeton/pull/321
-(4 months ago - MERGED)
+(5 months ago - MERGED)
 :package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos.
 Repository URL: https://github.com/vtsykun/packeton
 
