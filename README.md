@@ -10,23 +10,38 @@ Wakatime stats since 2025-03-25
 
 ## 🚀 Current Projects
 
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (1 day ago)
-- [wimwenigerkind/go-sql-time-machine](https://github.com/wimwenigerkind/go-sql-time-machine) -  (5 days ago)
-- [wimwenigerkind/go-excel-sql](https://github.com/wimwenigerkind/go-excel-sql) - Excel to SQL with GO (1 week ago)
-- [wimwenigerkind/go-pipeline](https://github.com/wimwenigerkind/go-pipeline) -  (1 week ago)
-- [wimwenigerkind/wim-cli](https://github.com/wimwenigerkind/wim-cli) -  (3 weeks ago)
+- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (3 days ago)
+- [wimwenigerkind/github-release-monitor](https://github.com/wimwenigerkind/github-release-monitor) -  (2 weeks ago)
+- [wimwenigerkind/clockify-mcp](https://github.com/wimwenigerkind/clockify-mcp) - A MCP Server for Clockify (3 weeks ago)
+- [wimwenigerkind/ha-addons](https://github.com/wimwenigerkind/ha-addons) - Repository for Home Assistant Add-Ons (3 weeks ago)
+- [wimwenigerkind/personizer-php](https://github.com/wimwenigerkind/personizer-php) -  (3 weeks ago)
 
 ## 🔀 Some of my recent pull requests
 
-- Feature/ntr run create tables migration
-https://github.com/wimwenigerkind/LetsMeet/pull/1
-(6 days ago - OPEN)
+- feature/NEXT-9
+https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/24
+(5 days ago - OPEN)
 
 
-- Add shopware 6.7.1.2
-https://github.com/dockware/dockware/pull/279
-(3 weeks ago - MERGED)
+- Add shopware 6.7.2.2
+https://github.com/dockware/dockware/pull/283
+(1 month ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
+
+- Add shopware 6.7.2.1
+https://github.com/dockware/dockware/pull/282
+(1 month ago - MERGED)
+Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
+
+- Add shopware 6.7.2.0
+https://github.com/dockware/dockware/pull/281
+(2 months ago - MERGED)
+Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
+
+- Add Jest
+https://github.com/wimwenigerkind/LetsMeet/pull/6
+(2 months ago - MERGED)
+
 
 
 ## 🏆 Key Contributions
@@ -92,6 +107,8 @@ Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version withi
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wimwenigerkind&layout=compact&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=wimwenigerkind&theme=catppuccin-frappe&hide_border=true&border_radius=8&card_width=520)](https://git.io/streak-stats)
 
 ![GitHub activity stats](https://github-readme-stats.vercel.app/api?username=wimwenigerkind&show_icons=true&count_private=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be&hide_border=true)
 
