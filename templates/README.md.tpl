@@ -21,10 +21,6 @@ Wakatime stats since 2025-03-25
 {{.Repo.Description}}
 {{end}}
 
-## Key Contributions
-
-[![Shopware Docker](https://github-readme-stats.vercel.app/api/pin/?username=dockware&repo=dockware&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be&hide_border=true)](https://github.com/dockware/dockware)
-
 ## Languages and Tools
 
 <p align="center">
