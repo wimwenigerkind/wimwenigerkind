@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Wim Wenigerkind</h1>
 <h3 align="center">16 years old • Full-Stack Developer & Home Lab / DevOps Enthusiast</h3>
 
-- 🌱 I'm currently learning **PHP, GO, Symfony, Shopware and Java**
-- 📫 How to reach me **info@wimwenigerkind.com**
+- I'm currently learning **PHP, GO, Symfony, Shopware and Java**
+- How to reach me **info@wimwenigerkind.com**
 
 Wakatime stats since 2025-03-25
 
 [![wakatime](https://wakatime.com/badge/user/e646e006-b4c5-4881-897c-e6eac563592a.svg)](https://wakatime.com/@e646e006-b4c5-4881-897c-e6eac563592a)
 
-## 🚀 Current Projects
+## Current Projects
 
 - [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (3 days ago)
 - [wimwenigerkind/github-release-monitor](https://github.com/wimwenigerkind/github-release-monitor) -  (2 weeks ago)
@@ -16,7 +16,7 @@ Wakatime stats since 2025-03-25
 - [wimwenigerkind/ha-addons](https://github.com/wimwenigerkind/ha-addons) - Repository for Home Assistant Add-Ons (3 weeks ago)
 - [wimwenigerkind/personizer-php](https://github.com/wimwenigerkind/personizer-php) -  (3 weeks ago)
 
-## 🔀 Some of my recent pull requests
+## Some of my recent pull requests
 
 - feature/NEXT-9
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/24
@@ -44,11 +44,11 @@ https://github.com/wimwenigerkind/LetsMeet/pull/6
 
 
 
-## 🏆 Key Contributions
+## Key Contributions
 
 [![Shopware Docker](https://github-readme-stats.vercel.app/api/pin/?username=dockware&repo=dockware&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be&hide_border=true)](https://github.com/dockware/dockware)
 
-## 💻 Languages and Tools
+## Languages and Tools
 
 <p align="center">
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
@@ -104,13 +104,13 @@ https://github.com/wimwenigerkind/LetsMeet/pull/6
     </a>
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
+
+<img align="right" alt="wim's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=wimwenigerkind&show_icons=true&count_private=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be&hide_border=true" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wimwenigerkind&layout=compact&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=wimwenigerkind&theme=catppuccin-frappe&hide_border=true&border_radius=8&card_width=520)](https://git.io/streak-stats)
-
-![GitHub activity stats](https://github-readme-stats.vercel.app/api?username=wimwenigerkind&show_icons=true&count_private=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=wimwenigerkind&theme=catppuccin-frappe&hide_border=true&border_radius=8&card_width=520)
 
 ---
 
