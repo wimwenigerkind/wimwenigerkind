@@ -10,7 +10,7 @@ Wakatime stats since 2025-03-25
 
 ## Current Projects
 
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (4 days ago)
+- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (5 days ago)
 - [wimwenigerkind/github-release-monitor](https://github.com/wimwenigerkind/github-release-monitor) -  (2 weeks ago)
 - [wimwenigerkind/clockify-mcp](https://github.com/wimwenigerkind/clockify-mcp) - A MCP Server for Clockify (3 weeks ago)
 - [wimwenigerkind/ha-addons](https://github.com/wimwenigerkind/ha-addons) - Repository for Home Assistant Add-Ons (3 weeks ago)
@@ -18,9 +18,19 @@ Wakatime stats since 2025-03-25
 
 ## Some of my recent pull requests
 
+- feat: add GitHub Actions workflow for running tests
+https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/26
+(1 day ago - MERGED)
+
+
+- feat: add qualifications field to ProjectEntity
+https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/25
+(1 day ago - MERGED)
+
+
 - feature/NEXT-9
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/24
-(6 days ago - OPEN)
+(1 week ago - MERGED)
 
 
 - Add shopware 6.7.2.2
@@ -32,16 +42,6 @@ Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version withi
 https://github.com/dockware/dockware/pull/282
 (1 month ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
-
-- Add shopware 6.7.2.0
-https://github.com/dockware/dockware/pull/281
-(2 months ago - MERGED)
-Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
-
-- Add Jest
-https://github.com/wimwenigerkind/LetsMeet/pull/6
-(2 months ago - MERGED)
-
 
 
 ## Languages and Tools
