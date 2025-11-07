@@ -44,7 +44,7 @@ https://github.com/dockware/dockware/pull/282
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 
 
-## GitHub Stats
+## Stats
 
 <img align="right" alt="wim's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=wimwenigerkind&show_icons=true&count_private=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be&hide_border=true" />
 
