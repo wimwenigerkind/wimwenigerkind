@@ -2,13 +2,13 @@
 
 - feat: add GitHub Actions workflow for running tests
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/26
-(4 days ago - MERGED)
+(5 days ago - MERGED)
 
 Repository URL: https://github.com/wimwenigerkind/lf8_starter_2025_authentik
 
 - feat: add qualifications field to ProjectEntity
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/25
-(4 days ago - MERGED)
+(5 days ago - MERGED)
 
 Repository URL: https://github.com/wimwenigerkind/lf8_starter_2025_authentik
 

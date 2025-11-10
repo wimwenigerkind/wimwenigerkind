@@ -10,22 +10,22 @@ Wakatime stats since 2025-03-25
 
 ## Current Projects
 
-- [wimwenigerkind/boilerplates](https://github.com/wimwenigerkind/boilerplates) -  (2 days ago)
+- [wimwenigerkind/bukkit-discord-integration-plugin](https://github.com/wimwenigerkind/bukkit-discord-integration-plugin) -  (1 day ago)
+- [wimwenigerkind/boilerplates](https://github.com/wimwenigerkind/boilerplates) -  (3 days ago)
 - [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (1 week ago)
 - [wimwenigerkind/github-release-monitor](https://github.com/wimwenigerkind/github-release-monitor) -  (3 weeks ago)
 - [wimwenigerkind/clockify-mcp](https://github.com/wimwenigerkind/clockify-mcp) - A MCP Server for Clockify (3 weeks ago)
-- [wimwenigerkind/ha-addons](https://github.com/wimwenigerkind/ha-addons) - Repository for Home Assistant Add-Ons (4 weeks ago)
 
 ## Some of my recent pull requests
 
 - feat: add GitHub Actions workflow for running tests
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/26
-(4 days ago - MERGED)
+(5 days ago - MERGED)
 
 
 - feat: add qualifications field to ProjectEntity
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/25
-(4 days ago - MERGED)
+(5 days ago - MERGED)
 
 
 - feature/NEXT-9
