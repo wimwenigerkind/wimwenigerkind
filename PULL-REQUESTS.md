@@ -1,14 +1,20 @@
 #### 🔀 My recent pull requests
 
+-  Story 2: Projekte abrufen
+https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/28
+(1 day ago - OPEN)
+
+Repository URL: https://github.com/wimwenigerkind/lf8_starter_2025_authentik
+
 - feat: add GitHub Actions workflow for running tests
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/26
-(5 days ago - MERGED)
+(6 days ago - MERGED)
 
 Repository URL: https://github.com/wimwenigerkind/lf8_starter_2025_authentik
 
 - feat: add qualifications field to ProjectEntity
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/25
-(5 days ago - MERGED)
+(6 days ago - MERGED)
 
 Repository URL: https://github.com/wimwenigerkind/lf8_starter_2025_authentik
 
@@ -110,7 +116,7 @@ Repository URL: https://github.com/dockware/dockware
 
 - Add shopware 6.7.0.0-rc4
 https://github.com/dockware/dockware/pull/265
-(5 months ago - MERGED)
+(6 months ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
