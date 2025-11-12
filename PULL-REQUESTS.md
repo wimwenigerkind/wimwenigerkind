@@ -1,20 +1,32 @@
 #### 🔀 My recent pull requests
 
+- Story 3: Projekt aktualisieren
+https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/30
+(1 day ago - MERGED)
+
+Repository URL: https://github.com/wimwenigerkind/lf8_starter_2025_authentik
+
+- Add Claude Code GitHub Workflow
+https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/29
+(1 day ago - MERGED)
+
+Repository URL: https://github.com/wimwenigerkind/lf8_starter_2025_authentik
+
 -  Story 2: Projekte abrufen
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/28
-(1 day ago - OPEN)
+(2 days ago - MERGED)
 
 Repository URL: https://github.com/wimwenigerkind/lf8_starter_2025_authentik
 
 - feat: add GitHub Actions workflow for running tests
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/26
-(6 days ago - MERGED)
+(1 week ago - MERGED)
 
 Repository URL: https://github.com/wimwenigerkind/lf8_starter_2025_authentik
 
 - feat: add qualifications field to ProjectEntity
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/25
-(6 days ago - MERGED)
+(1 week ago - MERGED)
 
 Repository URL: https://github.com/wimwenigerkind/lf8_starter_2025_authentik
 
@@ -86,7 +98,7 @@ Repository URL: https://github.com/dockware/dockware
 
 - Keycloak login integration
 https://github.com/vtsykun/packeton/pull/323
-(4 months ago - OPEN)
+(4 months ago - CLOSED)
 :package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos.
 Repository URL: https://github.com/vtsykun/packeton
 

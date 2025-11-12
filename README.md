@@ -10,7 +10,7 @@ Wakatime stats since 2025-03-25
 
 ## Current Projects
 
-- [wimwenigerkind/boilerplates](https://github.com/wimwenigerkind/boilerplates) -  (4 days ago)
+- [wimwenigerkind/boilerplates](https://github.com/wimwenigerkind/boilerplates) -  (5 days ago)
 - [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (1 week ago)
 - [wimwenigerkind/github-release-monitor](https://github.com/wimwenigerkind/github-release-monitor) -  (3 weeks ago)
 - [wimwenigerkind/clockify-mcp](https://github.com/wimwenigerkind/clockify-mcp) - A MCP Server for Clockify (4 weeks ago)
@@ -18,30 +18,30 @@ Wakatime stats since 2025-03-25
 
 ## Some of my recent pull requests
 
+- Story 3: Projekt aktualisieren
+https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/30
+(1 day ago - MERGED)
+
+
+- Add Claude Code GitHub Workflow
+https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/29
+(1 day ago - MERGED)
+
+
 -  Story 2: Projekte abrufen
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/28
-(1 day ago - OPEN)
+(2 days ago - MERGED)
 
 
 - feat: add GitHub Actions workflow for running tests
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/26
-(6 days ago - MERGED)
+(1 week ago - MERGED)
 
 
 - feat: add qualifications field to ProjectEntity
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/25
-(6 days ago - MERGED)
-
-
-- feature/NEXT-9
-https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/24
 (1 week ago - MERGED)
 
-
-- Add shopware 6.7.2.2
-https://github.com/dockware/dockware/pull/283
-(1 month ago - MERGED)
-Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 
 
 ## Stats
