@@ -10,27 +10,27 @@ Wakatime stats since 2025-03-25
 
 ## Current Projects
 
-- [wimwenigerkind/boilerplates](https://github.com/wimwenigerkind/boilerplates) -  (5 days ago)
+- [wimwenigerkind/boilerplates](https://github.com/wimwenigerkind/boilerplates) -  (6 days ago)
 - [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (1 week ago)
 - [wimwenigerkind/github-release-monitor](https://github.com/wimwenigerkind/github-release-monitor) -  (3 weeks ago)
-- [wimwenigerkind/clockify-mcp](https://github.com/wimwenigerkind/clockify-mcp) - A MCP Server for Clockify (4 weeks ago)
+- [wimwenigerkind/clockify-mcp](https://github.com/wimwenigerkind/clockify-mcp) - A MCP Server for Clockify (1 month ago)
 - [wimwenigerkind/ha-addons](https://github.com/wimwenigerkind/ha-addons) - Repository for Home Assistant Add-Ons (1 month ago)
 
 ## Some of my recent pull requests
 
 - Story 3: Projekt aktualisieren
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/30
-(1 day ago - MERGED)
+(2 days ago - MERGED)
 
 
 - Add Claude Code GitHub Workflow
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/29
-(1 day ago - MERGED)
+(2 days ago - MERGED)
 
 
 -  Story 2: Projekte abrufen
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/28
-(2 days ago - MERGED)
+(3 days ago - MERGED)
 
 
 - feat: add GitHub Actions workflow for running tests
