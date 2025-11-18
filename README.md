@@ -10,9 +10,9 @@ Wakatime stats since 2025-03-25
 
 ## Current Projects
 
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (2 days ago)
-- [wimwenigerkind/lf8_starter_2025_authentik](https://github.com/wimwenigerkind/lf8_starter_2025_authentik) -  (4 days ago)
-- [wimwenigerkind/github-release-monitor](https://github.com/wimwenigerkind/github-release-monitor) -  (4 days ago)
+- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (3 days ago)
+- [wimwenigerkind/lf8_starter_2025_authentik](https://github.com/wimwenigerkind/lf8_starter_2025_authentik) -  (5 days ago)
+- [wimwenigerkind/github-release-monitor](https://github.com/wimwenigerkind/github-release-monitor) -  (5 days ago)
 - [wimwenigerkind/boilerplates](https://github.com/wimwenigerkind/boilerplates) -  (1 week ago)
 - [wimwenigerkind/clockify-mcp](https://github.com/wimwenigerkind/clockify-mcp) - A MCP Server for Clockify (1 month ago)
 
@@ -20,12 +20,12 @@ Wakatime stats since 2025-03-25
 
 - Story 3: Projekt aktualisieren
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/30
-(6 days ago - MERGED)
+(1 week ago - MERGED)
 
 
 - Add Claude Code GitHub Workflow
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/29
-(6 days ago - MERGED)
+(1 week ago - MERGED)
 
 
 -  Story 2: Projekte abrufen
