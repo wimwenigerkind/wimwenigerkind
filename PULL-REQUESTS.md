@@ -20,13 +20,13 @@ Repository URL: https://github.com/wimwenigerkind/lf8_starter_2025_authentik
 
 - feat: add GitHub Actions workflow for running tests
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/26
-(1 week ago - MERGED)
+(2 weeks ago - MERGED)
 
 Repository URL: https://github.com/wimwenigerkind/lf8_starter_2025_authentik
 
 - feat: add qualifications field to ProjectEntity
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/25
-(1 week ago - MERGED)
+(2 weeks ago - MERGED)
 
 Repository URL: https://github.com/wimwenigerkind/lf8_starter_2025_authentik
 
@@ -62,7 +62,7 @@ Repository URL: https://github.com/wimwenigerkind/LetsMeet
 
 - Feature/ntr run create tables migration
 https://github.com/wimwenigerkind/LetsMeet/pull/1
-(2 months ago - CLOSED)
+(3 months ago - CLOSED)
 
 Repository URL: https://github.com/wimwenigerkind/LetsMeet
 
@@ -86,7 +86,7 @@ Repository URL: https://github.com/dockware/dockware
 
 - Add shopware 6.6.10.6
 https://github.com/dockware/dockware/pull/276
-(3 months ago - MERGED)
+(4 months ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
