@@ -2,13 +2,13 @@
 
 - Story 3: Projekt aktualisieren
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/30
-(1 week ago - MERGED)
+(2 weeks ago - MERGED)
 
 Repository URL: https://github.com/wimwenigerkind/lf8_starter_2025_authentik
 
 - Add Claude Code GitHub Workflow
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/29
-(1 week ago - MERGED)
+(2 weeks ago - MERGED)
 
 Repository URL: https://github.com/wimwenigerkind/lf8_starter_2025_authentik
 
@@ -56,7 +56,7 @@ Repository URL: https://github.com/dockware/dockware
 
 - Add Jest
 https://github.com/wimwenigerkind/LetsMeet/pull/6
-(2 months ago - MERGED)
+(3 months ago - MERGED)
 
 Repository URL: https://github.com/wimwenigerkind/LetsMeet
 
