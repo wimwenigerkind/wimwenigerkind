@@ -10,8 +10,8 @@ Wakatime stats since 2025-03-25
 
 ## Current Projects
 
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (4 days ago)
-- [wimwenigerkind/clockify-mcp](https://github.com/wimwenigerkind/clockify-mcp) - A MCP Server for Clockify (6 days ago)
+- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (5 days ago)
+- [wimwenigerkind/clockify-mcp](https://github.com/wimwenigerkind/clockify-mcp) - A MCP Server for Clockify (1 week ago)
 - [wimwenigerkind/lf8_starter_2025_authentik](https://github.com/wimwenigerkind/lf8_starter_2025_authentik) -  (2 weeks ago)
 - [wimwenigerkind/github-release-monitor](https://github.com/wimwenigerkind/github-release-monitor) -  (2 weeks ago)
 - [wimwenigerkind/boilerplates](https://github.com/wimwenigerkind/boilerplates) -  (3 weeks ago)
