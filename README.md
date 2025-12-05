@@ -10,11 +10,11 @@ Wakatime stats since 2025-03-25
 
 ## Current Projects
 
-- [wimwenigerkind/lf10_weather_dashboard](https://github.com/wimwenigerkind/lf10_weather_dashboard) -  (1 day ago)
-- [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) -  (2 days ago)
-- [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (2 days ago)
-- [wimwenigerkind/nixcfg](https://github.com/wimwenigerkind/nixcfg) - My Nix Config (3 days ago)
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (1 week ago)
+- [wimwenigerkind/docs.fa24b.de](https://github.com/wimwenigerkind/docs.fa24b.de) -  (today)
+- [wimwenigerkind/lf10_weather_dashboard](https://github.com/wimwenigerkind/lf10_weather_dashboard) -  (2 days ago)
+- [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) -  (3 days ago)
+- [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (3 days ago)
+- [wimwenigerkind/nixcfg](https://github.com/wimwenigerkind/nixcfg) - My Nix Config (4 days ago)
 
 ## Some of my recent pull requests
 
@@ -35,12 +35,12 @@ https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/28
 
 - feat: add GitHub Actions workflow for running tests
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/26
-(4 weeks ago - MERGED)
+(1 month ago - MERGED)
 
 
 - feat: add qualifications field to ProjectEntity
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/25
-(4 weeks ago - MERGED)
+(1 month ago - MERGED)
 
 
 
