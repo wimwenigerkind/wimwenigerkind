@@ -14,7 +14,7 @@ Repository URL: https://github.com/wimwenigerkind/lf8_starter_2025_authentik
 
 -  Story 2: Projekte abrufen
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/28
-(3 weeks ago - MERGED)
+(4 weeks ago - MERGED)
 
 Repository URL: https://github.com/wimwenigerkind/lf8_starter_2025_authentik
 
@@ -44,7 +44,7 @@ Repository URL: https://github.com/dockware/dockware
 
 - Add shopware 6.7.2.1
 https://github.com/dockware/dockware/pull/282
-(2 months ago - MERGED)
+(3 months ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
@@ -134,7 +134,7 @@ Repository URL: https://github.com/dockware/dockware
 
 - Add shopware 6.5.8.18
 https://github.com/dockware/dockware/pull/264
-(6 months ago - MERGED)
+(7 months ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
