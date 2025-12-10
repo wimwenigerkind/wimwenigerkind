@@ -14,7 +14,7 @@ Repository URL: https://github.com/wimwenigerkind/lf8_starter_2025_authentik
 
 -  Story 2: Projekte abrufen
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/28
-(4 weeks ago - MERGED)
+(1 month ago - MERGED)
 
 Repository URL: https://github.com/wimwenigerkind/lf8_starter_2025_authentik
 

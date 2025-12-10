@@ -10,9 +10,9 @@ Wakatime stats since 2025-03-25
 
 ## Current Projects
 
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (3 days ago)
-- [wimwenigerkind/docs.fa24b.de](https://github.com/wimwenigerkind/docs.fa24b.de) -  (4 days ago)
-- [wimwenigerkind/lf10_weather_dashboard](https://github.com/wimwenigerkind/lf10_weather_dashboard) -  (6 days ago)
+- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (4 days ago)
+- [wimwenigerkind/docs.fa24b.de](https://github.com/wimwenigerkind/docs.fa24b.de) -  (5 days ago)
+- [wimwenigerkind/lf10_weather_dashboard](https://github.com/wimwenigerkind/lf10_weather_dashboard) -  (1 week ago)
 - [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) -  (1 week ago)
 - [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (1 week ago)
 
@@ -30,7 +30,7 @@ https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/29
 
 -  Story 2: Projekte abrufen
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/28
-(4 weeks ago - MERGED)
+(1 month ago - MERGED)
 
 
 - feat: add GitHub Actions workflow for running tests
