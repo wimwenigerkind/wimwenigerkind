@@ -10,22 +10,22 @@ Wakatime stats since 2025-03-25
 
 ## Current Projects
 
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (4 days ago)
-- [wimwenigerkind/docs.fa24b.de](https://github.com/wimwenigerkind/docs.fa24b.de) -  (5 days ago)
-- [wimwenigerkind/lf10_weather_dashboard](https://github.com/wimwenigerkind/lf10_weather_dashboard) -  (1 week ago)
-- [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) -  (1 week ago)
+- [wimwenigerkind/lf10_weather_dashboard](https://github.com/wimwenigerkind/lf10_weather_dashboard) -  (1 day ago)
+- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (5 days ago)
+- [wimwenigerkind/docs.fa24b.de](https://github.com/wimwenigerkind/docs.fa24b.de) -  (6 days ago)
 - [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (1 week ago)
+- [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) -  (1 week ago)
 
 ## Some of my recent pull requests
 
 - Story 3: Projekt aktualisieren
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/30
-(4 weeks ago - MERGED)
+(1 month ago - MERGED)
 
 
 - Add Claude Code GitHub Workflow
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/29
-(4 weeks ago - MERGED)
+(1 month ago - MERGED)
 
 
 -  Story 2: Projekte abrufen

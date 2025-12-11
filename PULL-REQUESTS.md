@@ -2,13 +2,13 @@
 
 - Story 3: Projekt aktualisieren
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/30
-(4 weeks ago - MERGED)
+(1 month ago - MERGED)
 
 Repository URL: https://github.com/wimwenigerkind/lf8_starter_2025_authentik
 
 - Add Claude Code GitHub Workflow
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/29
-(4 weeks ago - MERGED)
+(1 month ago - MERGED)
 
 Repository URL: https://github.com/wimwenigerkind/lf8_starter_2025_authentik
 
@@ -128,7 +128,7 @@ Repository URL: https://github.com/dockware/dockware
 
 - Add shopware 6.7.0.0-rc4
 https://github.com/dockware/dockware/pull/265
-(6 months ago - MERGED)
+(7 months ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
