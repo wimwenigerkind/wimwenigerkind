@@ -10,11 +10,11 @@ Wakatime stats since 2025-03-25
 
 ## Current Projects
 
-- [wimwenigerkind/lf10_weather_dashboard](https://github.com/wimwenigerkind/lf10_weather_dashboard) -  (3 days ago)
+- [wimwenigerkind/lf10_weather_dashboard](https://github.com/wimwenigerkind/lf10_weather_dashboard) -  (4 days ago)
 - [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (1 week ago)
 - [wimwenigerkind/docs.fa24b.de](https://github.com/wimwenigerkind/docs.fa24b.de) -  (1 week ago)
-- [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (1 week ago)
-- [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) -  (1 week ago)
+- [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (2 weeks ago)
+- [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) -  (2 weeks ago)
 
 ## Some of my recent pull requests
 
