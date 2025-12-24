@@ -10,11 +10,11 @@ Wakatime stats since 2025-03-25
 
 ## Current Projects
 
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (2 days ago)
-- [wimwenigerkind/docker-images-basic](https://github.com/wimwenigerkind/docker-images-basic) -  (4 days ago)
-- [wimwenigerkind/clockify-mcp](https://github.com/wimwenigerkind/clockify-mcp) - A MCP Server for Clockify (5 days ago)
-- [wimwenigerkind/nixcfg](https://github.com/wimwenigerkind/nixcfg) - My Nix Config (5 days ago)
-- [wimwenigerkind/lf10_weather_dashboard](https://github.com/wimwenigerkind/lf10_weather_dashboard) -  (5 days ago)
+- [wimwenigerkind/clockify-mcp](https://github.com/wimwenigerkind/clockify-mcp) - A MCP Server for Clockify (1 day ago)
+- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (3 days ago)
+- [wimwenigerkind/docker-images-basic](https://github.com/wimwenigerkind/docker-images-basic) -  (5 days ago)
+- [wimwenigerkind/nixcfg](https://github.com/wimwenigerkind/nixcfg) - My Nix Config (6 days ago)
+- [wimwenigerkind/lf10_weather_dashboard](https://github.com/wimwenigerkind/lf10_weather_dashboard) -  (6 days ago)
 
 ## Some of my recent pull requests
 
