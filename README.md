@@ -10,9 +10,9 @@ Wakatime stats since 2025-03-25
 
 ## Current Projects
 
-- [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (today)
-- [wimwenigerkind/clockify-mcp](https://github.com/wimwenigerkind/clockify-mcp) - A MCP Server for Clockify (3 days ago)
-- [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) -  (6 days ago)
+- [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (1 day ago)
+- [wimwenigerkind/clockify-mcp](https://github.com/wimwenigerkind/clockify-mcp) - A MCP Server for Clockify (4 days ago)
+- [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) -  (1 week ago)
 - [wimwenigerkind/nixcfg](https://github.com/wimwenigerkind/nixcfg) - My Nix Config (1 week ago)
 - [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (1 week ago)
 
