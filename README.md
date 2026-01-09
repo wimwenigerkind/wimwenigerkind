@@ -10,11 +10,11 @@ Wakatime stats since 2025-03-25
 
 ## Current Projects
 
+- [wimwenigerkind/lf10_starter_react](https://github.com/wimwenigerkind/lf10_starter_react) -  (1 day ago)
 - [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (1 week ago)
 - [wimwenigerkind/clockify-mcp](https://github.com/wimwenigerkind/clockify-mcp) - A MCP Server for Clockify (1 week ago)
-- [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) -  (1 week ago)
+- [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) -  (2 weeks ago)
 - [wimwenigerkind/nixcfg](https://github.com/wimwenigerkind/nixcfg) - My Nix Config (2 weeks ago)
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (2 weeks ago)
 
 ## Some of my recent pull requests
 
@@ -30,7 +30,7 @@ https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/29
 
 -  Story 2: Projekte abrufen
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/28
-(1 month ago - MERGED)
+(2 months ago - MERGED)
 
 
 - feat: add GitHub Actions workflow for running tests
