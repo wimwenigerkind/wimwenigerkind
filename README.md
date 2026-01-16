@@ -10,11 +10,11 @@ Wakatime stats since 2025-03-25
 
 ## Current Projects
 
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (3 days ago)
-- [wimwenigerkind/lf10_starter_react](https://github.com/wimwenigerkind/lf10_starter_react) -  (1 week ago)
+- [wimwenigerkind/lf10_starter_react](https://github.com/wimwenigerkind/lf10_starter_react) -  (1 day ago)
+- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (4 days ago)
 - [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (2 weeks ago)
 - [wimwenigerkind/clockify-mcp](https://github.com/wimwenigerkind/clockify-mcp) - A MCP Server for Clockify (2 weeks ago)
-- [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) -  (2 weeks ago)
+- [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) -  (3 weeks ago)
 
 ## Some of my recent pull requests
 
