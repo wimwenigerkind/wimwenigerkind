@@ -10,38 +10,23 @@ Wakatime stats since 2025-03-25
 
 ## Current Projects
 
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) -  (3 days ago)
-- [wimwenigerkind/docker-images-basic](https://github.com/wimwenigerkind/docker-images-basic) -  (1 week ago)
-- [wimwenigerkind/lf10_starter_react](https://github.com/wimwenigerkind/lf10_starter_react) -  (1 week ago)
-- [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - Public Documentation at https://docs.wimwenigerkind.com (1 month ago)
-- [wimwenigerkind/clockify-mcp](https://github.com/wimwenigerkind/clockify-mcp) - A MCP Server for Clockify (1 month ago)
+- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) - 3 days ago
+- [wimwenigerkind/docker-images-basic](https://github.com/wimwenigerkind/docker-images-basic) - 1 week ago
+- [wimwenigerkind/lf10_starter_react](https://github.com/wimwenigerkind/lf10_starter_react) - 1 week ago
+- [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - 1 month ago
+- [wimwenigerkind/clockify-mcp](https://github.com/wimwenigerkind/clockify-mcp) - 1 month ago
 
 ## Some of my recent pull requests
 
-- Story 3: Projekt aktualisieren
-https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/30
-(3 months ago - MERGED)
+- https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/30 - 3 months ago
 
+- https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/29 - 3 months ago
 
-- Add Claude Code GitHub Workflow
-https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/29
-(3 months ago - MERGED)
+- https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/28 - 3 months ago
 
+- https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/26 - 3 months ago
 
--  Story 2: Projekte abrufen
-https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/28
-(3 months ago - MERGED)
-
-
-- feat: add GitHub Actions workflow for running tests
-https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/26
-(3 months ago - MERGED)
-
-
-- feat: add qualifications field to ProjectEntity
-https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/25
-(3 months ago - MERGED)
-
+- https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/25 - 3 months ago
 
 
 ## Stats
