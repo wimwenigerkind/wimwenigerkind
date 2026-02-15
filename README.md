@@ -31,7 +31,7 @@ Wakatime stats since 2025-03-25
 
 ## Stats
 
-<img align="right" alt="wim's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=wimwenigerkind&show_icons=true&count_private=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be&hide_border=true" />
+![Stats](./profile/stats.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wimwenigerkind&layout=compact&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be&hide_border=true)
 
