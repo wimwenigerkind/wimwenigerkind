@@ -10,13 +10,12 @@ Wakatime stats since 2025-03-25
 
 ## Current Projects
 {{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{humanize .OccurredAt}}
 {{- end}}
 
 ## Some of my recent pull requests
 {{range recentPullRequests 5}}
-- {{.Title}}
-{{.URL}}
+- {{.URL}}
 ({{humanize .CreatedAt}} - {{.State}})
 {{.Repo.Description}}
 {{end}}
