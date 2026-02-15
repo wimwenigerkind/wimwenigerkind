@@ -15,7 +15,7 @@ Wakatime stats since 2025-03-25
 
 ## Some of my recent pull requests
 {{range recentPullRequests 5}}
-- {{.URL}} - {{humanize .CreatedAt}
+- {{.URL}} - {{humanize .CreatedAt}}
 {{end}}
 
 ## Stats
