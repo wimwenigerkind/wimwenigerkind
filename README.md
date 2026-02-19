@@ -11,7 +11,7 @@ Wakatime stats since 2025-03-25
 ## Current Projects
 
 - [wimwenigerkind/docker-images-basic](https://github.com/wimwenigerkind/docker-images-basic) - 1 day ago
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) - 6 days ago
+- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) - 1 week ago
 - [wimwenigerkind/lf10_starter_react](https://github.com/wimwenigerkind/lf10_starter_react) - 2 weeks ago
 - [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - 1 month ago
 - [wimwenigerkind/clockify-mcp](https://github.com/wimwenigerkind/clockify-mcp) - 1 month ago
