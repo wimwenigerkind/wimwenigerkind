@@ -10,8 +10,8 @@ Wakatime stats since 2025-03-25
 
 ## Current Projects
 
-- [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 3 days ago
-- [wimwenigerkind/docker-images-basic](https://github.com/wimwenigerkind/docker-images-basic) - 5 days ago
+- [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 1 day ago
+- [wimwenigerkind/docker-images-basic](https://github.com/wimwenigerkind/docker-images-basic) - 6 days ago
 - [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) - 1 week ago
 - [wimwenigerkind/lf10_starter_react](https://github.com/wimwenigerkind/lf10_starter_react) - 2 weeks ago
 - [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - 1 month ago
