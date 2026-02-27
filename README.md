@@ -10,11 +10,11 @@ Wakatime stats since 2025-03-25
 
 ## Current Projects
 
-- [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 1 day ago
-- [wimwenigerkind/homebrew-tap](https://github.com/wimwenigerkind/homebrew-tap) - 1 day ago
+- [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) - 1 day ago
 - [wimwenigerkind/odoopack-registry](https://github.com/wimwenigerkind/odoopack-registry) - 1 day ago
+- [wimwenigerkind/homebrew-tap](https://github.com/wimwenigerkind/homebrew-tap) - 2 days ago
+- [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 2 days ago
 - [wimwenigerkind/docker-images-basic](https://github.com/wimwenigerkind/docker-images-basic) - 1 week ago
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) - 2 weeks ago
 
 ## Some of my recent pull requests
 
