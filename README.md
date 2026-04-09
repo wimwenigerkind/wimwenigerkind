@@ -10,8 +10,8 @@ Wakatime stats since 2025-03-25
 
 ## Current Projects
 
-- [HiveStatusDev/homebrew-tap](https://github.com/HiveStatusDev/homebrew-tap) - 6 days ago
-- [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) - 6 days ago
+- [HiveStatusDev/homebrew-tap](https://github.com/HiveStatusDev/homebrew-tap) - 1 week ago
+- [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) - 1 week ago
 - [wimwenigerkind/haier-hc-sa164dbt-modbus](https://github.com/wimwenigerkind/haier-hc-sa164dbt-modbus) - 2 weeks ago
 - [HiveStatusDev/.github](https://github.com/HiveStatusDev/.github) - 3 weeks ago
 - [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 1 month ago
@@ -22,7 +22,7 @@ Wakatime stats since 2025-03-25
 
 - https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/29 - 4 months ago
 
-- https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/28 - 4 months ago
+- https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/28 - 5 months ago
 
 - https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/26 - 5 months ago
 
