@@ -1,5 +1,11 @@
 #### 🔀 My recent pull requests
 
+- Add HiveStatus domain verification template
+https://github.com/Domain-Connect/Templates/pull/969
+(1 day ago - OPEN)
+Templates for use in the Domain Connect Protocol
+Repository URL: https://github.com/Domain-Connect/Templates
+
 - Story 3: Projekt aktualisieren
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/30
 (5 months ago - MERGED)
