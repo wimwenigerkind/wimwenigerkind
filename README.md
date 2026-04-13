@@ -10,15 +10,15 @@ Wakatime stats since 2025-03-25
 
 ## Current Projects
 
-- [Domain-Connect/Templates](https://github.com/Domain-Connect/Templates) - 1 day ago
-- [HiveStatusDev/homebrew-tap](https://github.com/HiveStatusDev/homebrew-tap) - 1 week ago
+- [Domain-Connect/Templates](https://github.com/Domain-Connect/Templates) - 2 days ago
 - [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) - 1 week ago
+- [HiveStatusDev/homebrew-tap](https://github.com/HiveStatusDev/homebrew-tap) - 1 week ago
 - [wimwenigerkind/haier-hc-sa164dbt-modbus](https://github.com/wimwenigerkind/haier-hc-sa164dbt-modbus) - 3 weeks ago
-- [HiveStatusDev/.github](https://github.com/HiveStatusDev/.github) - 3 weeks ago
+- [HiveStatusDev/.github](https://github.com/HiveStatusDev/.github) - 4 weeks ago
 
 ## Some of my recent pull requests
 
-- https://github.com/Domain-Connect/Templates/pull/969 - 2 days ago
+- https://github.com/Domain-Connect/Templates/pull/969 - 3 days ago
 
 - https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/30 - 5 months ago
 
