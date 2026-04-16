@@ -2,7 +2,7 @@
 
 - Add HiveStatus domain verification template
 https://github.com/Domain-Connect/Templates/pull/969
-(5 days ago - MERGED)
+(6 days ago - MERGED)
 Templates for use in the Domain Connect Protocol
 Repository URL: https://github.com/Domain-Connect/Templates
 
@@ -104,7 +104,7 @@ Repository URL: https://github.com/dockware/dockware
 
 - Keycloak login integration
 https://github.com/vtsykun/packeton/pull/323
-(9 months ago - CLOSED)
+(10 months ago - CLOSED)
 :package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos.
 Repository URL: https://github.com/vtsykun/packeton
 
