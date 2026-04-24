@@ -18,9 +18,7 @@ Wakatime stats since 2025-03-25
 
 ## Some of my recent pull requests
 
-- https://github.com/Domain-Connect/Templates/pull/969 - 1 week ago
-
-- https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/30 - 5 months ago
+- https://github.com/Domain-Connect/Templates/pull/969 - 2 weeks ago
 
 
 ## Stats

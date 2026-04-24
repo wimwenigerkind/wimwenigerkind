@@ -2,7 +2,7 @@
 
 - Add HiveStatus domain verification template
 https://github.com/Domain-Connect/Templates/pull/969
-(1 week ago - MERGED)
+(2 weeks ago - MERGED)
 Templates for use in the Domain Connect Protocol
 Repository URL: https://github.com/Domain-Connect/Templates
 
@@ -62,7 +62,7 @@ Repository URL: https://github.com/dockware/dockware
 
 - Add Jest
 https://github.com/wimwenigerkind/LetsMeet/pull/6
-(7 months ago - MERGED)
+(8 months ago - MERGED)
 
 Repository URL: https://github.com/wimwenigerkind/LetsMeet
 
