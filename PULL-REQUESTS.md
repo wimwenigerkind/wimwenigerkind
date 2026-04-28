@@ -38,7 +38,7 @@ Repository URL: https://github.com/wimwenigerkind/lf8_starter_2025_authentik
 
 - feature/NEXT-9
 https://github.com/wimwenigerkind/lf8_starter_2025_authentik/pull/24
-(5 months ago - MERGED)
+(6 months ago - MERGED)
 
 Repository URL: https://github.com/wimwenigerkind/lf8_starter_2025_authentik
 
