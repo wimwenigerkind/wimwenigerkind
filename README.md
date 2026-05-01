@@ -10,11 +10,11 @@ Wakatime stats since 2025-03-25
 
 ## Current Projects
 
+- [wimwenigerkind/nixcfg](https://github.com/wimwenigerkind/nixcfg) - today
+- [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) - today
 - [Domain-Connect/Templates](https://github.com/Domain-Connect/Templates) - 2 weeks ago
-- [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) - 4 weeks ago
 - [HiveStatusDev/homebrew-tap](https://github.com/HiveStatusDev/homebrew-tap) - 4 weeks ago
 - [wimwenigerkind/haier-hc-sa164dbt-modbus](https://github.com/wimwenigerkind/haier-hc-sa164dbt-modbus) - 1 month ago
-- [HiveStatusDev/.github](https://github.com/HiveStatusDev/.github) - 1 month ago
 
 ## Some of my recent pull requests
 
