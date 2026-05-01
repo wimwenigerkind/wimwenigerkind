@@ -27,7 +27,7 @@ jobs:
           template: "templates/PULL-REQUESTS.md.tpl"
           writeTo: "PULL-REQUESTS.md"
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v7
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
