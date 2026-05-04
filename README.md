@@ -10,9 +10,9 @@ Wakatime stats since 2025-03-25
 
 ## Current Projects
 
-- [wimwenigerkind/nixcfg](https://github.com/wimwenigerkind/nixcfg) - 1 day ago
-- [wimwenigerkind/gitmirror](https://github.com/wimwenigerkind/gitmirror) - 2 days ago
-- [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) - 2 days ago
+- [wimwenigerkind/nixcfg](https://github.com/wimwenigerkind/nixcfg) - 2 days ago
+- [wimwenigerkind/gitmirror](https://github.com/wimwenigerkind/gitmirror) - 3 days ago
+- [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) - 3 days ago
 - [Domain-Connect/Templates](https://github.com/Domain-Connect/Templates) - 3 weeks ago
 - [HiveStatusDev/homebrew-tap](https://github.com/HiveStatusDev/homebrew-tap) - 1 month ago
 
