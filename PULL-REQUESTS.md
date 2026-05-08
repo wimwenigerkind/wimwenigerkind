@@ -2,7 +2,7 @@
 
 - Add HiveStatus domain verification template
 https://github.com/Domain-Connect/Templates/pull/969
-(3 weeks ago - MERGED)
+(4 weeks ago - MERGED)
 Templates for use in the Domain Connect Protocol
 Repository URL: https://github.com/Domain-Connect/Templates
 
