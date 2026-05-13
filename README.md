@@ -10,9 +10,9 @@ Wakatime stats since 2025-03-25
 
 ## Current Projects
 
-- [wimwenigerkind/go-scim-gin](https://github.com/wimwenigerkind/go-scim-gin) - 1 day ago
-- [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) - 4 days ago
-- [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - 4 days ago
+- [wimwenigerkind/go-scim-gin](https://github.com/wimwenigerkind/go-scim-gin) - 2 days ago
+- [wimwenigerkind/mkdocs-wim-wenigerkind](https://github.com/wimwenigerkind/mkdocs-wim-wenigerkind) - 5 days ago
+- [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) - 5 days ago
 - [wimwenigerkind/nixcfg](https://github.com/wimwenigerkind/nixcfg) - 1 week ago
 - [wimwenigerkind/gitmirror](https://github.com/wimwenigerkind/gitmirror) - 1 week ago
 
