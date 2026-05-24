@@ -10,11 +10,11 @@ Wakatime stats since 2025-03-25
 
 ## Current Projects
 
-- [wimwenigerkind/go-notifications](https://github.com/wimwenigerkind/go-notifications) - 4 days ago
-- [wimwenigerkind/github-release-monitor](https://github.com/wimwenigerkind/github-release-monitor) - 4 days ago
-- [wimwenigerkind/gitmirror](https://github.com/wimwenigerkind/gitmirror) - 5 days ago
-- [wimwenigerkind/homebrew-tap](https://github.com/wimwenigerkind/homebrew-tap) - 5 days ago
-- [wimwenigerkind/nixcfg](https://github.com/wimwenigerkind/nixcfg) - 5 days ago
+- [wimwenigerkind/go-notifications](https://github.com/wimwenigerkind/go-notifications) - 5 days ago
+- [wimwenigerkind/github-release-monitor](https://github.com/wimwenigerkind/github-release-monitor) - 5 days ago
+- [wimwenigerkind/gitmirror](https://github.com/wimwenigerkind/gitmirror) - 6 days ago
+- [wimwenigerkind/homebrew-tap](https://github.com/wimwenigerkind/homebrew-tap) - 6 days ago
+- [wimwenigerkind/nixcfg](https://github.com/wimwenigerkind/nixcfg) - 6 days ago
 
 ## Some of my recent pull requests
 
