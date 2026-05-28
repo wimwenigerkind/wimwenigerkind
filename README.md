@@ -10,9 +10,9 @@ Wakatime stats since 2025-03-25
 
 ## Current Projects
 
-- [wimwenigerkind/odoopack-registry](https://github.com/wimwenigerkind/odoopack-registry) - 1 day ago
-- [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 1 day ago
-- [wimwenigerkind/go-notifications](https://github.com/wimwenigerkind/go-notifications) - 3 days ago
+- [wimwenigerkind/odoopack-registry](https://github.com/wimwenigerkind/odoopack-registry) - 2 days ago
+- [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 2 days ago
+- [wimwenigerkind/go-notifications](https://github.com/wimwenigerkind/go-notifications) - 4 days ago
 - [wimwenigerkind/github-release-monitor](https://github.com/wimwenigerkind/github-release-monitor) - 1 week ago
 - [wimwenigerkind/homebrew-tap](https://github.com/wimwenigerkind/homebrew-tap) - 1 week ago
 
