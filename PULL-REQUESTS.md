@@ -122,7 +122,7 @@ Repository URL: https://github.com/dockware/dockware
 
 - Fix GitHub repo links
 https://github.com/vtsykun/packeton/pull/321
-(11 months ago - MERGED)
+(1 year ago - MERGED)
 :package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos.
 Repository URL: https://github.com/vtsykun/packeton
 
