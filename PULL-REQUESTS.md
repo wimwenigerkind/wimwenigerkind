@@ -44,7 +44,7 @@ Repository URL: https://github.com/wimwenigerkind/lf8_starter_2025_authentik
 
 - Add shopware 6.7.2.2
 https://github.com/dockware/dockware/pull/283
-(8 months ago - MERGED)
+(9 months ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
@@ -110,7 +110,7 @@ Repository URL: https://github.com/vtsykun/packeton
 
 - Add shopware 6.7.0.0
 https://github.com/dockware/dockware/pull/268
-(11 months ago - MERGED)
+(1 year ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
