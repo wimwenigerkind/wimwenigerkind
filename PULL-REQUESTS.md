@@ -104,7 +104,7 @@ Repository URL: https://github.com/dockware/dockware
 
 - Keycloak login integration
 https://github.com/vtsykun/packeton/pull/323
-(11 months ago - CLOSED)
+(1 year ago - CLOSED)
 :package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos.
 Repository URL: https://github.com/vtsykun/packeton
 
