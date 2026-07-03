@@ -10,10 +10,10 @@ Wakatime stats since 2025-03-25
 
 ## Current Projects
 
-- [wimwenigerkind/odoopack-registry](https://github.com/wimwenigerkind/odoopack-registry) - today
-- [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - today
-- [wimwenigerkind/formcore](https://github.com/wimwenigerkind/formcore) - 5 days ago
-- [wimwenigerkind/go-notifications](https://github.com/wimwenigerkind/go-notifications) - 6 days ago
+- [wimwenigerkind/odoopack-registry](https://github.com/wimwenigerkind/odoopack-registry) - 1 day ago
+- [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 1 day ago
+- [wimwenigerkind/formcore](https://github.com/wimwenigerkind/formcore) - 6 days ago
+- [wimwenigerkind/go-notifications](https://github.com/wimwenigerkind/go-notifications) - 1 week ago
 - [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) - 1 week ago
 
 ## Some of my recent pull requests
