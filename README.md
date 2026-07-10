@@ -4,13 +4,9 @@
 - I'm currently learning **GO, PHP, Python, Symfony, Shopware and Java**
 - How to reach me **info@wimwenigerkind.com**
 
-Wakatime stats since 2025-03-25
-
-[![wakatime](https://wakatime.com/badge/user/e646e006-b4c5-4881-897c-e6eac563592a.svg)](https://wakatime.com/@e646e006-b4c5-4881-897c-e6eac563592a)
-
 ## Current Projects
 
-- [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) - 1 day ago
+- [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) - today
 - [wimwenigerkind/go-notifications](https://github.com/wimwenigerkind/go-notifications) - 3 days ago
 - [wimwenigerkind/odoopack-registry](https://github.com/wimwenigerkind/odoopack-registry) - 1 week ago
 - [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 1 week ago
