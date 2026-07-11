@@ -6,11 +6,11 @@
 
 ## Current Projects
 
-- [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) - today
-- [wimwenigerkind/go-notifications](https://github.com/wimwenigerkind/go-notifications) - 3 days ago
+- [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) - 1 day ago
+- [wimwenigerkind/go-notifications](https://github.com/wimwenigerkind/go-notifications) - 4 days ago
 - [wimwenigerkind/odoopack-registry](https://github.com/wimwenigerkind/odoopack-registry) - 1 week ago
 - [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 1 week ago
-- [wimwenigerkind/formcore](https://github.com/wimwenigerkind/formcore) - 1 week ago
+- [wimwenigerkind/formcore](https://github.com/wimwenigerkind/formcore) - 2 weeks ago
 
 ## Some of my recent pull requests
 
