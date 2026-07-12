@@ -44,7 +44,7 @@ Repository URL: https://github.com/wimwenigerkind/lf8_starter_2025_authentik
 
 - Add shopware 6.7.2.2
 https://github.com/dockware/dockware/pull/283
-(9 months ago - MERGED)
+(10 months ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
