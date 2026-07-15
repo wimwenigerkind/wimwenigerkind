@@ -1,5 +1,11 @@
 #### 🔀 My recent pull requests
 
+- feat: add iru custom apps publisher
+https://github.com/goreleaser/goreleaser/pull/6709
+(today - OPEN)
+Release engineering, simplified
+Repository URL: https://github.com/goreleaser/goreleaser
+
 - Add HiveStatus domain verification template
 https://github.com/Domain-Connect/Templates/pull/969
 (3 months ago - MERGED)
