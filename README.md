@@ -6,7 +6,7 @@
 
 ## Current Projects
 
-- [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) - 6 days ago
+- [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) - 1 week ago
 - [wimwenigerkind/go-notifications](https://github.com/wimwenigerkind/go-notifications) - 1 week ago
 - [wimwenigerkind/odoopack-registry](https://github.com/wimwenigerkind/odoopack-registry) - 2 weeks ago
 - [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 2 weeks ago
@@ -14,7 +14,7 @@
 
 ## Some of my recent pull requests
 
-- https://github.com/goreleaser/goreleaser/pull/6709 - 1 day ago
+- https://github.com/goreleaser/goreleaser/pull/6709 - 2 days ago
 
 
 ## Stats

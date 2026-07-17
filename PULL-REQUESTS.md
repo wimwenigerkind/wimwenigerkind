@@ -2,7 +2,7 @@
 
 - feat: add iru custom apps publisher
 https://github.com/goreleaser/goreleaser/pull/6709
-(1 day ago - OPEN)
+(2 days ago - OPEN)
 Release engineering, simplified
 Repository URL: https://github.com/goreleaser/goreleaser
 
@@ -74,7 +74,7 @@ Repository URL: https://github.com/wimwenigerkind/LetsMeet
 
 - Feature/ntr run create tables migration
 https://github.com/wimwenigerkind/LetsMeet/pull/1
-(10 months ago - CLOSED)
+(11 months ago - CLOSED)
 
 Repository URL: https://github.com/wimwenigerkind/LetsMeet
 
@@ -98,7 +98,7 @@ Repository URL: https://github.com/dockware/dockware
 
 - Add shopware 6.6.10.6
 https://github.com/dockware/dockware/pull/276
-(11 months ago - MERGED)
+(1 year ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
