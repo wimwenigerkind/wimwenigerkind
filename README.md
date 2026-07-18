@@ -10,11 +10,11 @@
 - [wimwenigerkind/go-notifications](https://github.com/wimwenigerkind/go-notifications) - 1 week ago
 - [wimwenigerkind/odoopack-registry](https://github.com/wimwenigerkind/odoopack-registry) - 2 weeks ago
 - [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 2 weeks ago
-- [wimwenigerkind/formcore](https://github.com/wimwenigerkind/formcore) - 2 weeks ago
+- [wimwenigerkind/formcore](https://github.com/wimwenigerkind/formcore) - 3 weeks ago
 
 ## Some of my recent pull requests
 
-- https://github.com/goreleaser/goreleaser/pull/6709 - 2 days ago
+- https://github.com/goreleaser/goreleaser/pull/6709 - 3 days ago
 
 
 ## Stats
