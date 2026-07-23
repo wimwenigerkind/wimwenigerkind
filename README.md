@@ -8,8 +8,8 @@
 
 - [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) - 1 week ago
 - [wimwenigerkind/go-notifications](https://github.com/wimwenigerkind/go-notifications) - 2 weeks ago
-- [wimwenigerkind/odoopack-registry](https://github.com/wimwenigerkind/odoopack-registry) - 2 weeks ago
-- [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 2 weeks ago
+- [wimwenigerkind/odoopack-registry](https://github.com/wimwenigerkind/odoopack-registry) - 3 weeks ago
+- [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 3 weeks ago
 - [wimwenigerkind/formcore](https://github.com/wimwenigerkind/formcore) - 3 weeks ago
 
 ## Some of my recent pull requests
