@@ -80,7 +80,7 @@ Repository URL: https://github.com/wimwenigerkind/LetsMeet
 
 - Add shopware 6.7.1.2
 https://github.com/dockware/dockware/pull/279
-(11 months ago - MERGED)
+(1 year ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
