@@ -14,7 +14,7 @@
 
 ## Some of my recent pull requests
 
-- https://github.com/goreleaser/goreleaser/pull/6709 - 1 week ago
+- https://github.com/goreleaser/goreleaser/pull/6709 - 2 weeks ago
 
 
 ## Stats
