@@ -2,7 +2,7 @@
 
 - feat: add iru custom apps publisher
 https://github.com/goreleaser/goreleaser/pull/6709
-(2 weeks ago - OPEN)
+(3 weeks ago - OPEN)
 Release engineering, simplified
 Repository URL: https://github.com/goreleaser/goreleaser
 
@@ -56,7 +56,7 @@ Repository URL: https://github.com/dockware/dockware
 
 - Add shopware 6.7.2.1
 https://github.com/dockware/dockware/pull/282
-(10 months ago - MERGED)
+(11 months ago - MERGED)
 Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker
 Repository URL: https://github.com/dockware/dockware
 
