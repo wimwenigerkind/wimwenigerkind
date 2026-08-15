@@ -2,7 +2,7 @@
 
 - feat: add iru custom apps publisher
 https://github.com/goreleaser/goreleaser/pull/6709
-(1 month ago - OPEN)
+(1 month ago - MERGED)
 Release engineering, simplified
 Repository URL: https://github.com/goreleaser/goreleaser
 
