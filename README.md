@@ -6,8 +6,8 @@
 
 ## Current Projects
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - 2 days ago
-- [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 6 days ago
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - 3 days ago
+- [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 1 week ago
 - [wimwenigerkind/setup-odoopack](https://github.com/wimwenigerkind/setup-odoopack) - 1 week ago
 - [wimwenigerkind/odoopack-registry](https://github.com/wimwenigerkind/odoopack-registry) - 1 week ago
 - [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) - 1 month ago
