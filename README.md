@@ -6,7 +6,7 @@
 
 ## Current Projects
 
-- [wimwenigerkind/printkit](https://github.com/wimwenigerkind/printkit) - 2 days ago
+- [wimwenigerkind/printkit](https://github.com/wimwenigerkind/printkit) - 3 days ago
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - 1 week ago
 - [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 1 week ago
 - [wimwenigerkind/setup-odoopack](https://github.com/wimwenigerkind/setup-odoopack) - 1 week ago
