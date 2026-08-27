@@ -6,11 +6,11 @@
 
 ## Current Projects
 
+- [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 1 day ago
 - [wimwenigerkind/odoopack-registry](https://github.com/wimwenigerkind/odoopack-registry) - 1 day ago
+- [wimwenigerkind/setup-odoopack](https://github.com/wimwenigerkind/setup-odoopack) - 1 day ago
 - [wimwenigerkind/printkit](https://github.com/wimwenigerkind/printkit) - 1 week ago
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - 1 week ago
-- [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 2 weeks ago
-- [wimwenigerkind/setup-odoopack](https://github.com/wimwenigerkind/setup-odoopack) - 2 weeks ago
 
 ## Some of my recent pull requests
 
