@@ -6,11 +6,11 @@
 
 ## Current Projects
 
-- [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) - 4 days ago
-- [wimwenigerkind/odoopack-registry](https://github.com/wimwenigerkind/odoopack-registry) - 4 days ago
-- [wimwenigerkind/odoopack-semver](https://github.com/wimwenigerkind/odoopack-semver) - 5 days ago
-- [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 5 days ago
-- [wimwenigerkind/setup-odoopack](https://github.com/wimwenigerkind/setup-odoopack) - 6 days ago
+- [wimwenigerkind/odoopack-registry](https://github.com/wimwenigerkind/odoopack-registry) - 1 day ago
+- [wimwenigerkind/odoo-manifest](https://github.com/wimwenigerkind/odoo-manifest) - 1 day ago
+- [wimwenigerkind/odoopack-semver](https://github.com/wimwenigerkind/odoopack-semver) - 1 day ago
+- [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 1 day ago
+- [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) - 5 days ago
 
 ## Some of my recent pull requests
 
