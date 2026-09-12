@@ -6,8 +6,8 @@
 
 ## Current Projects
 
-- [wimwenigerkind/odoopack-registry](https://github.com/wimwenigerkind/odoopack-registry) - 2 days ago
-- [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 2 days ago
+- [wimwenigerkind/odoopack-registry](https://github.com/wimwenigerkind/odoopack-registry) - 3 days ago
+- [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 3 days ago
 - [TWEECORE/dsfinvk](https://github.com/TWEECORE/dsfinvk) - 1 week ago
 - [wimwenigerkind/odoo-manifest](https://github.com/wimwenigerkind/odoo-manifest) - 1 week ago
 - [wimwenigerkind/odoopack-semver](https://github.com/wimwenigerkind/odoopack-semver) - 1 week ago
