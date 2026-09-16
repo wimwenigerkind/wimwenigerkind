@@ -6,9 +6,9 @@
 
 ## Current Projects
 
-- [wimwenigerkind/paginate](https://github.com/wimwenigerkind/paginate) - 1 day ago
-- [wimwenigerkind/odoopack-registry](https://github.com/wimwenigerkind/odoopack-registry) - 6 days ago
-- [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 6 days ago
+- [wimwenigerkind/paginate](https://github.com/wimwenigerkind/paginate) - 2 days ago
+- [wimwenigerkind/odoopack-registry](https://github.com/wimwenigerkind/odoopack-registry) - 1 week ago
+- [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 1 week ago
 - [TWEECORE/dsfinvk](https://github.com/TWEECORE/dsfinvk) - 1 week ago
 - [wimwenigerkind/odoopack-semver](https://github.com/wimwenigerkind/odoopack-semver) - 2 weeks ago
 
