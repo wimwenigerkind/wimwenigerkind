@@ -9,7 +9,7 @@
 - [TWEECORE/dsfinvk](https://github.com/TWEECORE/dsfinvk) - 1 week ago
 - [wimwenigerkind/odoopack-registry](https://github.com/wimwenigerkind/odoopack-registry) - 1 week ago
 - [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) - 2 weeks ago
-- [wimwenigerkind/paginate](https://github.com/wimwenigerkind/paginate) - 2 weeks ago
+- [wimwenigerkind/paginate](https://github.com/wimwenigerkind/paginate) - 3 weeks ago
 - [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 3 weeks ago
 
 ## Some of my recent pull requests
