@@ -6,8 +6,8 @@
 
 ## Current Projects
 
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) - 1 day ago
-- [TWEECORE/dsfinvk](https://github.com/TWEECORE/dsfinvk) - 3 weeks ago
+- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) - 2 days ago
+- [TWEECORE/dsfinvk](https://github.com/TWEECORE/dsfinvk) - 4 weeks ago
 - [wimwenigerkind/odoopack-registry](https://github.com/wimwenigerkind/odoopack-registry) - 1 month ago
 - [wimwenigerkind/paginate](https://github.com/wimwenigerkind/paginate) - 1 month ago
 - [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 1 month ago
