@@ -6,11 +6,11 @@
 
 ## Current Projects
 
-- [wimwenigerkind/odoopack-semver](https://github.com/wimwenigerkind/odoopack-semver) - 1 day ago
-- [wimwenigerkind/odoopack-registry](https://github.com/wimwenigerkind/odoopack-registry) - 1 day ago
-- [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 1 day ago
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) - 3 days ago
-- [TWEECORE/dsfinvk](https://github.com/TWEECORE/dsfinvk) - 4 weeks ago
+- [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 2 days ago
+- [wimwenigerkind/odoopack-registry](https://github.com/wimwenigerkind/odoopack-registry) - 2 days ago
+- [wimwenigerkind/odoopack-semver](https://github.com/wimwenigerkind/odoopack-semver) - 2 days ago
+- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) - 4 days ago
+- [TWEECORE/dsfinvk](https://github.com/TWEECORE/dsfinvk) - 1 month ago
 
 ## Some of my recent pull requests
 
