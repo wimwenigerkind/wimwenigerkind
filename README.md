@@ -6,10 +6,10 @@
 
 ## Current Projects
 
-- [wimwenigerkind/paginate](https://github.com/wimwenigerkind/paginate) - 3 days ago
-- [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 6 days ago
-- [wimwenigerkind/odoopack-registry](https://github.com/wimwenigerkind/odoopack-registry) - 6 days ago
-- [wimwenigerkind/odoopack-semver](https://github.com/wimwenigerkind/odoopack-semver) - 6 days ago
+- [wimwenigerkind/paginate](https://github.com/wimwenigerkind/paginate) - 4 days ago
+- [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 1 week ago
+- [wimwenigerkind/odoopack-registry](https://github.com/wimwenigerkind/odoopack-registry) - 1 week ago
+- [wimwenigerkind/odoopack-semver](https://github.com/wimwenigerkind/odoopack-semver) - 1 week ago
 - [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) - 1 week ago
 
 ## Some of my recent pull requests
