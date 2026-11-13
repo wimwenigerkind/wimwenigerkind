@@ -6,10 +6,10 @@
 
 ## Current Projects
 
-- [wimwenigerkind/odoo-manifest](https://github.com/wimwenigerkind/odoo-manifest) - 1 day ago
-- [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 1 day ago
-- [wimwenigerkind/odoopack-spec](https://github.com/wimwenigerkind/odoopack-spec) - 1 day ago
-- [wimwenigerkind/odoopack-registry](https://github.com/wimwenigerkind/odoopack-registry) - 1 day ago
+- [wimwenigerkind/odoo-manifest](https://github.com/wimwenigerkind/odoo-manifest) - 2 days ago
+- [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 2 days ago
+- [wimwenigerkind/odoopack-spec](https://github.com/wimwenigerkind/odoopack-spec) - 2 days ago
+- [wimwenigerkind/odoopack-registry](https://github.com/wimwenigerkind/odoopack-registry) - 2 days ago
 - [wimwenigerkind/go-scim-gin](https://github.com/wimwenigerkind/go-scim-gin) - 1 week ago
 
 ## Some of my recent pull requests
