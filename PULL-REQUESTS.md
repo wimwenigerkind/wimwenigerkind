@@ -1,5 +1,11 @@
 #### 🔀 My recent pull requests
 
+- feat(cli)!: freeze version 1 of the manifest and lockfile formats
+https://github.com/wimwenigerkind/odoopack/pull/17
+(1 day ago - MERGED)
+A package manager for Odoo addons
+Repository URL: https://github.com/wimwenigerkind/odoopack
+
 - feat: add iru custom apps publisher
 https://github.com/goreleaser/goreleaser/pull/6709
 (4 months ago - MERGED)

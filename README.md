@@ -6,13 +6,15 @@
 
 ## Current Projects
 
-- [wimwenigerkind/setup-odoopack](https://github.com/wimwenigerkind/setup-odoopack) - 3 days ago
-- [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 3 days ago
-- [wimwenigerkind/wimwenigerkind.com](https://github.com/wimwenigerkind/wimwenigerkind.com) - 1 week ago
+- [wimwenigerkind/odoopack-spec](https://github.com/wimwenigerkind/odoopack-spec) - 1 day ago
+- [wimwenigerkind/odoopack](https://github.com/wimwenigerkind/odoopack) - 1 day ago
+- [wimwenigerkind/odoopack-registry](https://github.com/wimwenigerkind/odoopack-registry) - 1 day ago
+- [wimwenigerkind/setup-odoopack](https://github.com/wimwenigerkind/setup-odoopack) - 4 days ago
 - [wimwenigerkind/clockify-mcp](https://github.com/wimwenigerkind/clockify-mcp) - 1 week ago
-- [wimwenigerkind/dotfiles](https://github.com/wimwenigerkind/dotfiles) - 1 week ago
 
 ## Some of my recent pull requests
+
+- https://github.com/wimwenigerkind/odoopack/pull/17 - 1 day ago
 
 
 ## Stats
