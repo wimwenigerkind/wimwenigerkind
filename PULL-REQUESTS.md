@@ -2,7 +2,7 @@
 
 - feat(cli)!: freeze version 1 of the manifest and lockfile formats
 https://github.com/wimwenigerkind/odoopack/pull/17
-(1 day ago - MERGED)
+(2 days ago - MERGED)
 A package manager for Odoo addons
 Repository URL: https://github.com/wimwenigerkind/odoopack
 
